@@ -1,32 +1,32 @@
 <div id="mm-0" class="mm-page mm-slideout">
 <div class="w650">
-<footer class="z-depth-3" style="padding: 0; margin: 0; border: 1px solid #000; border-radius: 5px;">
+<footer style="padding: 0; margin: 0;border: 1px solid #fdd2ee; border-radius: 5px;">
     <!-- Maps -->
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0451578371985!2d106.87644131431368!3d-6.257781995470485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f2e2eb6463df%3A0xff838c28333ee8e6!2sKlinik+Sentosa!5e0!3m2!1sid!2sid!4v1516677023538" height="451" frameborder="0" style="border:0; border-radius: 5px; width: 100% !important;" allowfullscree></iframe>
     <div class="mapimg">
-        <div class="changemap1" style="float: left; margin-top: -368px; margin-right: 10px; position: absolute;">
+        <div class="changemap1">
             <!-- <img src="img/icon/map.png" alt="map "> -->
-            <i class="fa fa-chevron-circle-right fa-3x purple-text"></i>
+            <i class="fa fa-chevron-circle-right fa-2x pinked-low-text white"></i>
         </div>
     </div>
-    <div class="address" style="border-radius: 5px;">
+    <div class="address pinked-low">
         <!-- <img class="logo" src="img/logo/logofoot.png" alt="logo global"> -->
         <ul>
             <li id="icon-phone"><!-- <img src="img/icon/iphonei.png"> -->
-                <p class="vta">028 3923 9999</p>
+                <p class="vta white-text">028 3923 9999</p>
                 <div class="clear"></div>
             </li>
             <li id="icon-time"><!-- <img src="img/icon/24h.png"> -->
-                <p class="vta">8h00-20h00 (sepanjang hari dalam seminggu)</p>
+                <p class="vta white-text">8h00-20h00 (sepanjang hari dalam seminggu)</p>
                     <div class="clear"></div>
             </li>
             <li id="icon-way"><!-- <img src="img/icon/ichome.png"> -->
-                <p class="vta">80 - 82 Mangga 2 P11 - Distrik 5 - Kota Jakarta</p>
+                <p class="vta white-text">80 - 82 Mangga 2 P11 - Distrik 5 - Kota Jakarta</p>
                 <div class="clear"></div>
             </li>
         </ul>
-        <div class="changemap" style="float: right; margin-top: -145px; margin-right: 10px;">
-            <i class="fa fa-chevron-circle-left fa-3x" style="color: #fff; cursor: pointer;"></i>
+        <div class="changemap" style="float: right; margin-top: -150px; margin-right: 10px;">
+            <i class="fa fa-chevron-circle-left fa-2x white-text" style=" cursor: pointer;"></i>
         </div>
         <!-- <div class="changemap"><i class="fa fa-chevron-circle-left fa-3x" style="color: #fff; cursor: pointer;"></i></div> -->
         <div class="clear"></div>
@@ -54,13 +54,13 @@
     </div>
 </div>
 
-<a href="tel:02839239999" class="tbd-phong-a">
+<!-- <a href="tel:081362621616" class="tbd-phong-a">
     <div class="tbd-alo-phone">
       <div class="tbd-alo-ph-circle"></div>
       <div class="tbd-alo-ph-circle-fill"></div>
-      <div class="tbd-alo-ph-img-circle delaiso"><a href="#"><i class="fa fa-phone fa-2x fa-fw" style="color: #fff;"></i></a></div>
+      <div class="tbd-alo-ph-img-circle delaiso"></div>
     </div>
-</a>
+</a> -->
 
 <!-- <div id="mm-blocker" class="mm-slideout"></div>
 <div id="LRdiv2" style="display: block;">

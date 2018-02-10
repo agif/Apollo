@@ -36,45 +36,53 @@
                 <div class="m_motbenh">
                     <div class="breadcrumb_main">
                         <div class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                            <a href="#" itemprop="url">
-                                <span itemprop="title">Home</span>
-                            </a>&nbsp;›
+                            <a href="../../" itemprop="url">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Home</span>
+                            </a>
+                            <span class="ml-2">
+                                <i class="mt-2 fa fa-angle-right"></i>
+                            </span>
                         </div>
-                        <div class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                            <a href="../../penyakit/" itemprop="url">
+                        <!-- <div class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a href="../" itemprop="url">
                                 <span itemprop="title">Penyakit</span>
                             </a>&nbsp;›
-                        </div>
+                        </div> -->
                         <div class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                            <a href="../../penyakit/erosiServiks/" itemprop="url">
-                                <span itemprop="title">Erosi Serviks</span>
+                            <a href="#in-here" itemprop="url">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Bartholinitis</span>
                             </a>
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h1 class="cx title_chitiet">Erosi Serviks</h1>
+                    <h1 class="cx title_chitiet">Erosi Serviks</h1><hr color="#ee22d3">
                     <ul class="list_doc listbenh_tc">
-                        <li class="clear">
-                            <div class="hinh_tc">
-                                <a href="single/gejala.php">
-                                    <img src="../../img/icon/NewWomen/keputihan.png" class="vien_hinh bo5 mr10 img-thumbnail"/>
-                                </a>
-                            </div>
-                            <div class="content_tc">
-                                <a href="single/gejala.php">
-                                    <h4>Gejala Erosi Serviks</h4>
-                                </a>
-                                <p class="tj">
-                                    Adanya gejala tergantung pada apa yang mendasarinya. Biasanya gejala erosi serviks terjadi pada wanita. Gejala erosi serviks bukan suatu kelainan, namun terkadang gejalanya dikaitkan dengan gejala-gejala seperti ... 
-                                </p>
-                                <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                        <li class="jumbotron">
+                            <div class="row">
+                                <div class="col-sm-4 col-xs-12 mb-4">
+                                    <a href="single/gejala.php">
+                                        <img src="thumbnail/gejala-erosi-serviks.jpg" class="mx my img-thumbnail" />
+                                    </a>
+                                </div>
+                                <div class="col-sm-8 col-xs-12">
+                                    <a href="single/gejala.php" class="mx-auto d-block">
+                                        <h4 class="h4-responsive mx-auto d-block">Gejala Erosi Serviks</h4>
+                                    </a>
+                                    <p class="text-justify text-fluid">
+                                        Adanya gejala tergantung pada apa yang mendasarinya. Biasanya gejala erosi serviks terjadi pada wanita. Gejala erosi serviks
+                                        bukan suatu kelainan, namun terkadang gejalanya dikaitkan dengan gejala-gejala seperti ...
+                                    </p>
+                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm">Lebih Lanjut ...
+                                        <i class="fa fa-mail-forward" aria-hidden="true"></i>
+                                    </a>
+                                </div>
                             </div>
                             <div class="clear10"></div>
                         </li>
-                        <li class="clear">
+                        <li class="jumbotron">
                             <div class="hinh_tc">
                                 <a href="single/cara.php">
-                                    <img src="../../img/icon/NewWomen/keputihan.png" class="vien_hinh bo5 mr10 img-thumbnail"/>
+                                    <img src="thumbnail/cara-pengobatan-erosi-serviks.jpg" class="vien_hinh bo5 mr10 img-thumbnail"/>
                                 </a>
                             </div>
                             <div class="content_tc">
@@ -88,10 +96,10 @@
                             </div>
                             <div class="clear10"></div>
                         </li>
-                        <li class="clear">
+                        <li class="jumbotron">
                             <div class="hinh_tc">
                                 <a href="single/klinik.php">
-                                    <img src="../../img/icon/NewWomen/keputihan.png" class="vien_hinh bo5 mr10 img-thumbnail"/>
+                                    <img src="thumbnail/klinik-pengobatan-erosi-serviks.jpg" class="vien_hinh bo5 mr10 img-thumbnail"/>
                                 </a>
                             </div>
                             <div class="content_tc">
@@ -106,10 +114,10 @@
                             </div>
                             <div class="clear10"></div>
                         </li>
-                        <li class="clear">
+                        <li class="jumbotron">
                             <div class="hinh_tc">
                                 <a href="single/biaya.php">
-                                    <img src="../../img/icon/NewWomen/keputihan.png" class="vien_hinh bo5 mr10 img-thumbnail"/>
+                                    <img src="thumbnail/biaya-untuk-pengobatan-erosi-serviks.jpg" class="vien_hinh bo5 mr10 img-thumbnail"/>
                                 </a>
                             </div>
                             <div class="content_tc">
@@ -118,8 +126,8 @@
                                 </a>
                                 <p class="tj">
                                     Erosi serviks adalah suatu kondisi yang mempengaruhi sel-sel pada serviks (leher rahim). Serviks wanita memiliki berbagai jenis sel di bagian luar (bagian vagina) daripada dibagian ...
-                                    <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </p>
+                                <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                             </div>
                             <div class="clear10"></div>
                         </li>
