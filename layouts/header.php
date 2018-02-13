@@ -89,22 +89,30 @@
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650 row">
-          <div class="col-9 left">
-              <div class="row">
-                  <div class="col-1">
-                      <a href="#" class="fb"><i class="fa fa-facebook-square fa-2x pinked-low-text" aria-hidden="true"></i></a>
-                  </div>
-                  <div class="col-1">
-                      <a href="#" class="tw"><i class="fa fa-twitter-square fa-2x pinked-low-text" aria-hidden="true"></i></a>
-                  </div>
-                  <div class="col-1">
-                      <a href="#" class="gplus"><i class="fa fa-google-plus-square fa-2x pinked-low-text" aria-hidden="true"></i></a>
-                  </div>
-              </div>
-          </div>
-          <div class="col-3 pr-4 left">
-              <a class="right" href="#menu"><i class="fa fa-bars fa-2x pinked-low-text" aria-hidden="true"></i></a>
-          </div>
+        <div class="col-9 left">
+            <div class="row">
+                <div class="col-1">
+                    <a href="#" class="fb">
+                        <i class="fa fa-facebook-square fa-2x pinked-low-text" aria-hidden="true"></i>
+                    </a>
+                </div>
+                <div class="col-1">
+                    <a href="#" class="tw">
+                        <i class="fa fa-twitter-square fa-2x pinked-low-text" aria-hidden="true"></i>
+                    </a>
+                </div>
+                <div class="col-1">
+                    <a href="#" class="gplus">
+                        <i class="fa fa-google-plus-square fa-2x pinked-low-text" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-3 pr-4 left">
+            <a class="right" href="#menu">
+                <i class="fa fa-bars fa-2x pinked-low-text" aria-hidden="true"></i>
+            </a>
+        </div>
     </div>
     <div class="d-flex justify-content-center" id="brand">
           <a href="#"><h1 class="h1-responsive pinked-low-text navbar-brand font-weight-bold">Klinik Utama Sentosa</h1>
