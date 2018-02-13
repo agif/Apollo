@@ -125,8 +125,15 @@ img {
 
 .list_doc li {
   display: block;
-
   list-style: none;
+}
+
+.list_doc li a img{
+  margin-top: -4px;
+}
+
+.list_doc li a{
+  margin: 10px 10px 10px 10px;
 }
 
 h3 {
@@ -139,17 +146,8 @@ a {
   color: #000;
 }
 
-.tj {
-  margin-bottom: 5px;
-
-  text-align: justify;
-
-  font-size: 14px;
-  line-height: 20px;
-}
-
 .tc {
-  text-align: center
+  text-align: center;
 }
 
 .vien_hinh {
@@ -188,7 +186,6 @@ a {
 
 .w650 {
   top: 0;
-
   max-width: 640px !important;
   margin: auto;
   padding-top: 20px;
@@ -320,7 +317,7 @@ footer>.address {
   width: 50%;
   /* min-height: 50px; */
   padding-bottom: 1%;
-  border-radius: 5px;
+  border-bottom-right-radius: 5px;
 
   /* background: #fdd2ee  ; */
   /*margin:5% 0 18% 0*/
@@ -1025,9 +1022,9 @@ header>div {
 }
 
 .formsodienthoaihead {
-  /*padding: 0 2%;*/
   position: relative;
   background: #fff;
+  max-width: 640px !important;
 }
 
 .formsodienthoaihead>.vach3fix {
@@ -1165,17 +1162,12 @@ header>div {
 */
 
 .m_content {
-  background: #fff;
-}
-
-.m_content .m_motbenh {
-  padding: 2%;
-
-  background: #fff;
+  /* background: yellow; */
+  padding: 0;
 }
 
 .breadcrumb_main {
-  margin-bottom: 10px
+  margin: 0 10px;
 }
 
 .breadcrumb {
@@ -1222,10 +1214,6 @@ header>div {
     color: #000 !important;
 }*/
 
-.content_chitiet * {
-  max-width: 100%
-}
-
 /*.m_motbenh h3.title,
 .m_motbenh h1 {
     color: #fff;
@@ -1240,34 +1228,34 @@ header>div {
     color: #fff
 }*/
 
-.m_motbenh .hinh_tc {
+/* .m_motbenh .hinh_tc {
   float: left;
 
   width: 24%;
   margin-right: 10px
-}
+} */
 
-.m_motbenh .content_tc {
+/* .m_motbenh .content_tc {
   float: right;
 
   width: 70%;
-}
+} */
 
-.content_tc p {
+/* .content_tc p {
   color: black;
   border-top: 1px solid #000;
-}
+} */
 
-.m_motbenh .listbenh_tc li {
-  /* margin-bottom: 15px; */
-  /* background: yellow; */
+/* .m_motbenh .listbenh_tc li {
+  margin-bottom: 15px;
+  background: yellow;
 
   border-bottom: 1px solid#df53cc  ;
-}
+} */
 
-.m_motbenh .listbenh_tc li h4 {
+/* .m_motbenh .listbenh_tc li h4 {
   color:#df53cc
-}
+} */
 
 .backtotop {
   position: absolute;
@@ -1289,7 +1277,7 @@ header>div {
 
 }
 
-@media screen and (min-width: 768px) and (max-width: 991px){
+/* @media screen and (min-width: 768px) and (max-width: 991px){
   .formsodienthoaihead>form>.sdtinput {
     width: 78%;
     margin-left: 50px;
@@ -1298,11 +1286,8 @@ header>div {
   .btn-awe {
     float: left;
     margin-left: 10px;
-    /* background: black; */
-    /* padding-top: 15px; */
-    /* padding-bottom: 10px; */
   }
-}
+} */
 
 @media screen and (min-width: 401px) and (max-width: 500px) {
   * {
@@ -1428,25 +1413,6 @@ header>div {
 
 .color0cd {
   color:#df53cc
-}
-
-.chitietbaiviet-lienquan {
-  margin-top: 7%;
-  margin-bottom: 1.5%;
-  padding: 1px 10%;
-
-  border: 1px dashed gray;
-}
-
-.chitietbaiviet-lienquan ul {
-  /*list-style-image: url('../img/lienquan.jpg');*/
-}
-
-.chitietbaiviet-lienquan ul>li>a {
-  color: #000;
-
-  font-size: 85%;
-  font-weight: bold;
 }
 
 #LRMINIBar {
@@ -2552,15 +2518,15 @@ header>div {
 
 /*From Penyakit/Single/*/
 
+.content_chitiet * {
+  max-width: 100%
+}
+
 .content_chitiet {
   box-sizing: border-box;
   padding: 0px 10px;
 
   line-height: 30px;
-}
-
-.content_chitiet p em {
-  font-style: normal !important;
 }
 
 .content_chitiet table {
@@ -2574,15 +2540,14 @@ header>div {
 .content_chitiet p {
   display: block;
   clear: both;
-
   max-width: 100%;
-  margin: 10px 0px;
 
+  /* margin: 10px 0px; */
+  margin-top: -25px;
   text-align: justify;
   white-space: pre-line;
   word-spacing: 2px;
-
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .content_chitiet img {
@@ -2669,6 +2634,149 @@ header>div {
 .content_chitiet p.center {
   text-align: center;
 }
+
+.h1-post{
+  margin: 30px 10px 10px 10px;
+}
+
+.post-time{
+  color:#A7A7A7;
+  font-size:0.68em;
+  float:right;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+/* ################# ul li content single ############## */
+
+/* Span */
+.breadcrumb-span{
+  margin-top: 2px;
+}
+
+.chitietbaiviet-lienquan {
+  margin-top: 7%;
+  margin-bottom: 1.5%;
+  padding: 1px 10%;
+  border: 1px dashed gray;
+}
+
+/* .chitietbaiviet-lienquan ul{
+  background: cyan;
+  margin-top: -50px;
+} */
+
+.chitietbaiviet-lienquan ul li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  line-height: 25px;
+  /* margin-top: -12px; */
+}
+
+.chitietbaiviet-lienquan ol li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  line-height: 25px;
+  /* margin-top: -12px; */
+}
+
+.chitietbaiviet-lienquan ul li i{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  /* line-height: 5px; */
+  margin-top: -25px;
+  margin-left: -20px;
+}
+
+/* .chitietbaiviet-lienquan ul li{
+  background: darkcyan;
+} */
+
+.chitietbaiviet-lienquan ul li ul{
+  margin-bottom: -20px;
+  /* padding-bottom: -20px; */
+}
+
+.chitietbaiviet-lienquan ul li ol{
+  margin-bottom: -20px;
+  /* padding-bottom: -20px; */
+}
+
+.chitietbaiviet-lienquan ul li ul li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  /* line-height: 5px; */
+  margin-top: -25px;
+  margin-left: 20px;
+}
+.chitietbaiviet-lienquan ol li ol li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  /* line-height: 5px; */
+  margin-top: -25px;
+}
+
+.chitietbaiviet-lienquan ul li ol li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  /* line-height: 5px; */
+  margin-top: -25px;
+  margin-left: 15px;
+}
+
+.chitietbaiviet-lienquan ol li ul li{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  /* line-height: 5px; */
+  margin-top: -25px;
+}
+
+.chitietbaiviet-lienquan ul li p{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  line-height: 25px;
+  margin-top: -12px;
+}
+
+.chitietbaiviet-lienquan ol li p{
+  text-align: justify;
+  white-space: pre-line;
+  word-spacing: 2px;
+  line-height: 25px;
+  margin-top: -12px;
+}
+
+.chitietbaiviet-lienquan ul>li>a {
+  color: #000;
+  font-size: 85%;
+  font-weight: bold;
+}
+
+.content_chitiet .special-type{
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+
+.content_chitiet>.special-type>a>.special-rgb{
+  color:rgb(255, 0, 0);
+}
+
+.content_chitiet>.special-type>a>.special-rgb>strong>img{
+  /* background: url("../../../img/icon/special-icon.gif"); */
+  /* background: url(../img/icon/special-icon.gif)no-repeat; */
+  opacity:0.9; width:25px
+}
+
+/* End */
 
 color008 {
   color: #008080

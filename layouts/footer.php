@@ -1,8 +1,8 @@
 <div id="mm-0" class="mm-page mm-slideout">
 <div class="w650">
-<footer style="padding: 0; margin: 0;border: 1px solid #fdd2ee; border-radius: 5px;">
+<footer style="padding: 0; margin: 0;border: 1px solid #fdd2ee;">
     <!-- Maps -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0451578371985!2d106.87644131431368!3d-6.257781995470485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f2e2eb6463df%3A0xff838c28333ee8e6!2sKlinik+Sentosa!5e0!3m2!1sid!2sid!4v1516677023538" height="451" frameborder="0" style="border:0; border-radius: 5px; width: 100% !important;" allowfullscree></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0451578371985!2d106.87644131431368!3d-6.257781995470485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f2e2eb6463df%3A0xff838c28333ee8e6!2sKlinik+Sentosa!5e0!3m2!1sid!2sid!4v1516677023538" height="451" frameborder="0" style="width: 100% !important;" allowfullscree></iframe>
     <div class="mapimg">
         <div class="changemap1">
             <!-- <img src="img/icon/map.png" alt="map "> -->
