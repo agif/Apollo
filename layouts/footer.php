@@ -14,18 +14,18 @@
         <ul>
             <li id="icon-phone"><!-- <img src="img/icon/iphonei.png"> -->
                 <p class="vta white-text">028 3923 9999</p>
-                <div class="clear"></div>
+                <div class="clear"></div>   
             </li>
             <li id="icon-time"><!-- <img src="img/icon/24h.png"> -->
                 <p class="vta white-text">8h00-20h00 (sepanjang hari dalam seminggu)</p>
-                    <div class="clear"></div>
+                <div class="clear"></div>
             </li>
             <li id="icon-way"><!-- <img src="img/icon/ichome.png"> -->
                 <p class="vta white-text">80 - 82 Mangga 2 P11 - Distrik 5 - Kota Jakarta</p>
                 <div class="clear"></div>
             </li>
         </ul>
-        <div class="changemap" style="float: right; margin-top: -150px; margin-right: 10px;">
+        <div class="changemap">
             <i class="fa fa-chevron-circle-left fa-2x white-text" style=" cursor: pointer;"></i>
         </div>
         <!-- <div class="changemap"><i class="fa fa-chevron-circle-left fa-3x" style="color: #fff; cursor: pointer;"></i></div> -->

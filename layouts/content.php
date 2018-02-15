@@ -4,7 +4,7 @@
             <section class="container align-self-center">
                   <div class="row">
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/erosiServiks/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Erosi-Serviks/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                         <br />
                                         <img src="img/logo/Icon-white/Vulvitis.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -17,7 +17,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/himenoplasty/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Himenoplasty/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Endometriosis.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -30,7 +30,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/keputihan/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Keputihan/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Keputihan.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -43,7 +43,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/polipServik/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Polip-Serviks/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/PolipServiks.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -56,7 +56,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/radangPanggul/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Radang-Panggul/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/radangPanggul.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -69,7 +69,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/urethritis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Urethritis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Cervicitis.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -82,7 +82,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/vaginitis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Vaginitis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Vaginitis.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -95,7 +95,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/vaginoplasty/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Vaginoplasty/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Vaginoplasty.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">
@@ -108,7 +108,7 @@
                               <br>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 card-cascade wider">
-                              <a href="penyakit/vulvitis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
+                              <a href="penyakit/Vulvitis/" class="text-center card hm-zoom hoverable" style="border-top: 1px solid #fdd2ee;">
                                     <div class="view overlay pt-4">
                                       <br />
                                           <img src="img/logo/Icon-white/Vulvitis.png" class="img-fluid mx-auto d-block rounded-circle" style="border: 5px solid #ee22d3">

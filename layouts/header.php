@@ -89,7 +89,7 @@
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650 row">
-        <div class="col-9 left">
+        <div class="col-9 left nav-social">
             <div class="row">
                 <div class="col-1">
                     <a href="#" class="fb">
@@ -113,20 +113,20 @@
                 <i class="fa fa-bars fa-2x pinked-low-text" aria-hidden="true"></i>
             </a>
         </div>
+        <div id="brand">
+            <a href="serbaserbiandrologi.com"><h1 class="h1-responsive pinked-low-text navbar-brand">Klinik Utama Sentosa</h1>
+            </a>
+        </div>
+        <div id="menuNAV" class="formsodienthoaihead container">
+            <a class="vach3fix" href="#menu"><i class="fa fa-bars fa-3x pinked-low-text" aria-hidden="true"></i>
+            </a>
+            <form method="post" action="" class="form-awe">
+                <input name="sodienthoai" class="sdtinput black-text" placeholder="konsultasi gratis">
+                <button name="btn_sdt_goilai" type="submit" class="btn-awe pinked-low-text" style="cursor: pointer;">&nbsp;</button>
+            </form>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <div class="clear10"></div>
     </div>
-    <div class="d-flex justify-content-center" id="brand">
-          <a href="#"><h1 class="h1-responsive pinked-low-text navbar-brand font-weight-bold">Klinik Utama Sentosa</h1>
-          </a>
-    </div>
-    <div id="menuNAV" class="formsodienthoaihead container">
-          <a class="vach3fix" href="#menu"><i class="fa fa-bars fa-3x pinked-low-text" aria-hidden="true"></i>
-          </a>
-          <form method="post" action="" class="form-awe">
-              <input name="sodienthoai" class="sdtinput black-text" placeholder="konsultasi gratis">
-              <button name="btn_sdt_goilai" type="submit" class="btn-awe pinked-low-text" style="cursor: pointer;">&nbsp;</button>
-          </form>
-          <div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-    <div class="clear10"></div>
 </div>
