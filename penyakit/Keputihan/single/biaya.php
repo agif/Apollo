@@ -32,155 +32,164 @@
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650">
+        <div class="banner">
+			<img class="img-fluid banner" src="../../../img/banner/doktor-1.jpg" alt="Klinik umum tim medis lengkap sempurna">
+		</div>
         <section class="tranggiua m_content">
-            <div class="m_motbenh ml-2 mr-2">
-                <div class="breadcrumb_main mb-2 ml-2">
-                    <div class="breadcrumb">
-                        <a href="../../../">
-                            <span itemprop="title" class="badge unique-color white-text z-depth-0">Home</span>
-                        </a>
-                        <span class="ml-2 breadcrumb-span">
-                            <i class="fa fa-angle-right"></i>
-                        </span>
+            <div class="content_h">
+                <div class="m_motbenh">
+                    <div class="breadcrumb_main">
+                        <div class="breadcrumb">
+                            <a href="../../../">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Home</span>
+                            </a>
+                            <span class="breadcrumb-span">
+                                <i class="fa fa-angle-right"></i>
+                            </span>
+                        </div>
+                        <!-- <div class="breadcrumb">
+                            <a href="../../" itemprop="url">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Penyakit</span>
+                            </a>
+                            <span class="breadcrumb-span">
+                                <i class="fa fa-angle-right"></i>
+                            </span>
+                        </div> -->
+                        <div class="breadcrumb">
+                            <a href="../" itemprop="url">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Keputihan</span>
+                            </a>
+                            <span class="breadcrumb-span">
+                                <i class="fa fa-angle-right"></i>
+                            </span>
+                        </div>
+                        <div class="breadcrumb">
+                            <a href="#in-here" itemprop="url">
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Biaya</span>
+                            </a>
+                        </div>
+                        <div class="clear"></div>
                     </div>
-                    <!-- <div class="breadcrumb">
-                        <a href="../../" itemprop="url">
-                            <span itemprop="title">Penyakit</span>
-                        </a>
-                        <span class="ml-2 breadcrumb-span">
-                            <i class="fa fa-angle-right"></i>
-                        </span>
-                    </div>
-                    </div> -->
-                    <div class="breadcrumb">
-                        <a href="../" itemprop="url">
-                            <span itemprop="title">Keputihan</span>
-                        </a>
-                        <span class="ml-2 breadcrumb-span">
-                            <i class="fa fa-angle-right"></i>
-                        </span>
-                    </div>
-                    </div>
-                    <div class="breadcrumb">
-                        <a href="#in-here" itemprop="url">
-                            <span itemprop="title">Biaya</span>
-                        </a>
-                    </div>
-                    <div class="clear"></div>
-                </div>
-                <h1 class="h1-post h1-responsive">Biaya Untuk Pengobatan Keputihan</h1>
-                <span class="post-time">
-                    Tanggal Diposting : 10-01-2018 - Tampilan : 667
-                </span><br><br>
-                <div class="content_chitiet">
-                    <p class="font-weight-bold"><u>Biaya Pengobatan Keputihan Sesuai Tingkat Keparahannya</u></p>
-                    <p>
-                        Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang berfungsi menjaga kesehatan daerah kewanitaan Anda. Namun Anda juga dapat mengalami keputihan yang tidak normal dari biasanya. Keputihan perlu diketahui bahwa gejala umum kepitihan tidak normal menurut dunia medis sebetulnya memiliki keterkaitan yang erat dengan penyakit menular seksual (PMS) atau penyakit kelamin.  
-                    </p>
-                    <p class="special-type">
-						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
-						</a><a href="#"><span style="color:#0000FF"><strong>>>> tanya dokter untuk konsultasi tentang biaya pengobatan keputihan </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
-					</p>
+                    <h4 class="h4-post h4-responsive"><i class="fa fa-th-large" aria-hidden="true"></i> Biaya Untuk Pengobatan Keputihan</h4>
+                    <span class="post-time">
+                        Tanggal Diposting : 10-01-2018 - Tampilan : 667
+                    </span><br><br>
+                    <div class="content_chitiet">
+                        <p class="font-weight-bold">
+                            Biaya Pengobatan Keputihan Sesuai Tingkat Keparahannya
+                        </p>
+                        <p>
+                            Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang berfungsi menjaga kesehatan daerah kewanitaan Anda. Namun Anda juga dapat mengalami keputihan yang tidak normal dari biasanya. Keputihan perlu diketahui bahwa gejala umum kepitihan tidak normal menurut dunia medis sebetulnya memiliki keterkaitan yang erat dengan penyakit menular seksual (PMS) atau penyakit kelamin.  
+                        </p>
+                        <p class="special-type">
+    						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
+    						</a><a href="#"><span style="color:#0000FF"><strong>>>> tanya dokter untuk konsultasi tentang biaya pengobatan keputihan </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
+    					</p>
 
-                    <p class="font-weight-bold"><u>Berapa Biaya Pengobatan Untuk Penyakit Keputihan ?</u></p>
-                    <p>
-                        Berapa biaya yang diperlukan untuk mendapatkan penanganan dari dokter spesialis dalam menangani penyakit keputihan?. Biaya pengobatan yang diberikan oleh dokter spesialis biasanya akan tergantung dari jenis keputihan abnormal yang Anda alami. awalnya, dokter spesialis akan melakukan tahapan pemeriksaan awal atau diagnosis untuk mengetahui seberapa parah tingkat gejala dna infeksi yang Anda alami. 
-                    </p>
-                    <p>
-                        Setelah itu dokter spesialis akan menganalisa hasil dari diagnosis dengan laboratorium. Hasil dari analisa tersebut dapat menentukan rekomendasi pengobatan dan besaran biaya yang perlu Anda keluarkan untuk mengobati keputihan abnormal yang Anda alami. Anda tidak perlu takut dengan biaya mahal untuk mendapatkan pengobatan khusus dari dokter spesialis karena biasanya dokter akan selalu berkonsultasi dengan Anda terlebih dahulu mengenai rekomendasi pengobatan yang akan diberikan.
-                    </p>
+                        <p class="font-weight-bold">
+                            Berapa Biaya Pengobatan Untuk Penyakit Keputihan ?
+                        </p>
+                        <p>
+                            Berapa biaya yang diperlukan untuk mendapatkan penanganan dari dokter spesialis dalam menangani penyakit keputihan?. Biaya pengobatan yang diberikan oleh dokter spesialis biasanya akan tergantung dari jenis keputihan abnormal yang Anda alami. awalnya, dokter spesialis akan melakukan tahapan pemeriksaan awal atau diagnosis untuk mengetahui seberapa parah tingkat gejala dna infeksi yang Anda alami. 
+                        </p>
+                        <p>
+                            Setelah itu dokter spesialis akan menganalisa hasil dari diagnosis dengan laboratorium. Hasil dari analisa tersebut dapat menentukan rekomendasi pengobatan dan besaran biaya yang perlu Anda keluarkan untuk mengobati keputihan abnormal yang Anda alami. Anda tidak perlu takut dengan biaya mahal untuk mendapatkan pengobatan khusus dari dokter spesialis karena biasanya dokter akan selalu berkonsultasi dengan Anda terlebih dahulu mengenai rekomendasi pengobatan yang akan diberikan.
+                        </p>
 
-                    <p class="special-type">
-						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
-						</a><a href="#"><span style="color:#0000FF"><strong>>>> berapa biaya pengobatan keputihan </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
-					</p>
+                        <p class="special-type">
+    						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
+    						</a><a href="#"><span style="color:#0000FF"><strong>>>> berapa biaya pengobatan keputihan </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
+    					</p>
 
-                    <p class="font-weight-bold"><u>Berapa Biaya Pengobatan Keputihan Di Klinik Sentosa</u></p>
-                    <p>
-                        Klinik Sentosa adalah salah satu klinik yang menangani segala jenis atau segala bentuk permasalahan penyakit kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Selain itu, Klinik Sentosa sangat mengutamakan kepuasan pasien, Anda tidak perlu mengkhawatirkan nya lagi. Klinik Sentosa sudah banyak pasien yang datang untuk berobat dan hasilnya sembuh. 
-                    </p>
-                    <p>
-                        Dengan pelayanan yang sangat baik dan pengobatan yang persentase kesembuhannya mencapai hingga 98.5 %. Menjadi kepercayaan semua kalangan masyarakat yang memiliki penyakit kelamin untuk datang berobat ke Klinik Sentosa. Dengan semua fasilitas yang ada di Klinik Sentosa bukan berarti pengobatan di Klinik Sentosa itu mahal. 
-                    </p>
-                    <p>
-                        Akan tetapi biaya pengobatan di Klinik Sentosa sangat terjangkau dan sesuai dengan proses pengobatan nasional. Percayakan pengobatan penyakit kelamin Anda di Klinik Sentosa. Jangan pernah menunda-nunda pengobatan jika Anda sudah mengalami adanya gejala. Segera lakukan konsultasi dengan dokter spesialis agar segera ditindak lanjuti.
-                    </p>
-                    <p>
-                        Lakukan segala bentuk pemeriksaan atau tes yang telah disarankan oleh dokter agar segera dilakukan tes laboratorium. Jika hasil tes laboratorium sudah dipastikan dan dianalisa atau didiagnosis. Maka jenis pengobatan seperti apa yang harus Anda jalani. Seperti segala jenis pengobatan atau terapi sesuai tahap-tahapnya dan sesuai tingkat keparahan suatu penyakit tersebut.
-                    </p>
-                    <p>
-                        Selain itu, selama Anda melakukan pengobatan, maka harus menjaga organ reproduksi Anda agar tidak terinfeksi kembali. Harus menyelesaikan pengobatan sampai selesai dan dikatakan sembuh oleh dokter agar tidak resisten. Setelah dinyatakan sembuh oleh dokter Anda harus menjaga agar penyakitnya tidak kambuh kembali.
-                    </p>
-                    
-                    <p class="special-type">
-						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
-						</a><a href="#"><span style="color:#0000FF"><strong>>>> tanya dokter </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini untuk konsultasi] <<< </strong></span></a>
-					</p>
+                        <p class="font-weight-bold">
+                            Berapa Biaya Pengobatan Keputihan Di Klinik Sentosa
+                        </p>
+                        <p>
+                            Klinik Sentosa adalah salah satu klinik yang menangani segala jenis atau segala bentuk permasalahan penyakit kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Selain itu, Klinik Sentosa sangat mengutamakan kepuasan pasien, Anda tidak perlu mengkhawatirkan nya lagi. Klinik Sentosa sudah banyak pasien yang datang untuk berobat dan hasilnya sembuh. 
+                        </p>
+                        <p>
+                            Dengan pelayanan yang sangat baik dan pengobatan yang persentase kesembuhannya mencapai hingga 98.5 %. Menjadi kepercayaan semua kalangan masyarakat yang memiliki penyakit kelamin untuk datang berobat ke Klinik Sentosa. Dengan semua fasilitas yang ada di Klinik Sentosa bukan berarti pengobatan di Klinik Sentosa itu mahal. 
+                        </p>
+                        <p>
+                            Akan tetapi biaya pengobatan di Klinik Sentosa sangat terjangkau dan sesuai dengan proses pengobatan nasional. Percayakan pengobatan penyakit kelamin Anda di Klinik Sentosa. Jangan pernah menunda-nunda pengobatan jika Anda sudah mengalami adanya gejala. Segera lakukan konsultasi dengan dokter spesialis agar segera ditindak lanjuti.
+                        </p>
+                        <p>
+                            Lakukan segala bentuk pemeriksaan atau tes yang telah disarankan oleh dokter agar segera dilakukan tes laboratorium. Jika hasil tes laboratorium sudah dipastikan dan dianalisa atau didiagnosis. Maka jenis pengobatan seperti apa yang harus Anda jalani. Seperti segala jenis pengobatan atau terapi sesuai tahap-tahapnya dan sesuai tingkat keparahan suatu penyakit tersebut.
+                        </p>
+                        <p>
+                            Selain itu, selama Anda melakukan pengobatan, maka harus menjaga organ reproduksi Anda agar tidak terinfeksi kembali. Harus menyelesaikan pengobatan sampai selesai dan dikatakan sembuh oleh dokter agar tidak resisten. Setelah dinyatakan sembuh oleh dokter Anda harus menjaga agar penyakitnya tidak kambuh kembali.
+                        </p>
+                        
+                        <p class="special-type">
+    						<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
+    						</a><a href="#"><span style="color:#0000FF"><strong>>>> tanya dokter </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini untuk konsultasi] <<< </strong></span></a>
+    					</p>
 
-                    <p class="text-justify">
-                        <strong class="red-text"><b>Klinik Sentosa</b></strong> adalah salah satu klinik spesialis penyakit kulit dan kelamin yang berada di Jakarta, Indonesia. Menangani setiap permasalahan penyakit kulit dan kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Didukung oleh dokter ahli dan peralatan medis yang modern guna membantu proses pengobatan  penyakit kelamin.
-                    </p>
+                        <p class="text-justify">
+                            <strong class="red-text"><b>Klinik Sentosa</b></strong> adalah salah satu klinik spesialis penyakit kulit dan kelamin yang berada di Jakarta, Indonesia. Menangani setiap permasalahan penyakit kulit dan kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Didukung oleh dokter ahli dan peralatan medis yang modern guna membantu proses pengobatan  penyakit kelamin.
+                        </p>
+                        <div class="clear10"></div>
+                    </div>
                     <div class="clear10"></div>
+
+                    <blockquote class="blockquote bq-warning">
+                        <p class="text-muted">Disclaimer: Hasil dapat berbeda dari masing-masing individu.</p>
+                    </blockquote>
+
+                    <p class="jumbotron" style="color:red;">*Note: Efek pengobatan tergantung pada kondisi fisik masing-masing orang</p>
+                    <div class="clear20"></div>
+                    <ul class="tinlq list_doc">
+    					<div class="card card-header pinked-low mb-3">
+    						<h5 class="h5-responsive white-text">Posting Terkait</h5>
+    					</div>
+    					<li>
+    						<a href="gejala.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Keputihan.jpg"
+    							 align="left" >
+    								Gejala Keputihan
+    						</a>
+    					</li>
+    					<hr>
+    					<li>
+    						<a href="cara.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Keputihan.jpg" align="left" alt="#">
+    								Cara Mengangani Keputihan
+    						</a>
+    					</li>
+                        <hr>
+                        <li>
+    						<a href="klinik.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Keputihan.jpg" align="left">
+    								Klinik Terbaik Yang Menangani Keputihan
+    						</a>
+    					</li>
+    					<hr>
+                        <li>
+    						<a href="k-darah.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Keputihan-Darah.jpg"
+    							 align="left" >
+    							 	Keputihan Darah
+    						</a>
+    					</li>
+    					<hr>
+    					<li>
+    						<a href="k-kuning.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Keputihan-Berwarna-Kuning.jpg"
+    							 align="left" >
+    							 	Keputihan Kuning
+    						</a>
+    					</li>
+    					<hr>
+    					<li>
+    						<a href="penyebab.php">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Keputihan.jpg"
+    							 align="left" >
+    							 	Penyebab Keputihan
+    						</a>
+    					</li>
+    					<hr>
+    				</ul>
                 </div>
-                <div class="clear10"></div>
-
-                <blockquote class="blockquote bq-warning">
-                    <p class="text-muted">Disclaimer: Hasil dapat berbeda dari masing-masing individu.</p>
-                </blockquote>
-
-                <p class="jumbotron" style="color:red;">*Note: Efek pengobatan tergantung pada kondisi fisik masing-masing orang</p>
-                <div class="clear20"></div>
-                <ul class="tinlq list_doc">
-					<div class="card card-header pinked-low mb-3">
-						<h5 class="h5-responsive white-text">Posting Terkait</h5>
-					</div>
-					<li>
-						<a href="gejala.php">
-							<img class="vien_hinh bo5 mr10" src="http://namkhoa.dakhoahoancau.vn/upload/_thumbs/Images/benh-vien-cat-bao-quy-dau-tot-nhat-tphcm.jpg"
-							 width="10%" align="left" alt="Bệnh viện cắt bao quy đầu tốt nhất tại TP HCM">
-								Gejala Keputihan
-						</a>
-					</li>
-					<hr>
-					<li>
-						<a href="cara.php">
-							<img class="vien_hinh bo5 mr10" src="#" width="10%" align="left" alt="#">
-								Cara Mengangani Keputihan
-						</a>
-					</li>
-                    <hr>
-                    <li>
-						<a href="klinik.php">
-							<img class="vien_hinh bo5 mr10" src="http://namkhoa.dakhoahoancau.vn/upload/_thumbs/Images/benh-vien-cat-bao-quy-dau-tot-nhat-tphcm.jpg" width="10%" align="left" alt="Bệnh viện cắt bao quy đầu tốt nhất tại TP HCM">
-								Klinik Terbaik Yang Menangani Keputihan
-						</a>
-					</li>
-					<hr>
-                    <li>
-						<a href="k-darah.php">
-							<img class="vien_hinh bo5 mr10" src="http://namkhoa.dakhoahoancau.vn/upload/_thumbs/Images/benh-vien-cat-bao-quy-dau-tot-nhat-tphcm.jpg"
-							 width="10%" align="left" alt="Bệnh viện cắt bao quy đầu tốt nhất tại TP HCM">
-							 	Keputihan Darah
-						</a>
-					</li>
-					<hr>
-					<li>
-						<a href="k-kuning.php">
-							<img class="vien_hinh bo5 mr10" src="http://namkhoa.dakhoahoancau.vn/upload/_thumbs/Images/benh-vien-cat-bao-quy-dau-tot-nhat-tphcm.jpg"
-							 width="10%" align="left" alt="Bệnh viện cắt bao quy đầu tốt nhất tại TP HCM">
-							 	Keputihan Kuning
-						</a>
-					</li>
-					<hr>
-					<li>
-						<a href="penyebab.php">
-							<img class="vien_hinh bo5 mr10" src="http://namkhoa.dakhoahoancau.vn/upload/_thumbs/Images/benh-vien-cat-bao-quy-dau-tot-nhat-tphcm.jpg"
-							 width="10%" align="left" alt="Bệnh viện cắt bao quy đầu tốt nhất tại TP HCM">
-							 	Penyebab Keputihan
-						</a>
-					</li>
-					<hr>
-				</ul>
             </div>
         </section>
     </div>
