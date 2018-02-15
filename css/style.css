@@ -116,6 +116,20 @@ img {
   height: 100px
 }
 
+.list-number-special{
+  margin-top: 20px;
+}
+
+.list-number-special ol{
+  margin-top: 10px;
+  margin-bottom: -30px;
+}
+
+.list-number-special ol li{
+  margin-bottom: -30px;
+}
+
+
 .list_ngang li {
   display: inline-block;
   float: left;
@@ -123,17 +137,29 @@ img {
   list-style: none;
 }
 
+.list_doc{
+  background: #fdd2ee;
+}
+
+/* .posting-card{
+  margin-bottom: 20px;
+} */
+
 .list_doc li {
   display: block;
   list-style: none;
+  padding: 10px;
 }
+
+/* .list_doc li a{
+  margin: 10px;
+} */
 
 .list_doc li a img{
-  margin-top: -4px;
-}
-
-.list_doc li a{
-  margin: 10px 10px 10px 10px;
+  margin-top: -15px;
+  width: 60px;
+  height: 55px;
+  margin-right: 10px;
 }
 
 h3 {
@@ -191,6 +217,10 @@ a {
   padding-top: 20px;
 }
 
+/*.w650>div {
+  padding: 0 15px;
+}
+*/
 .w650>div>div {
   height: 35px;
 }
@@ -205,26 +235,35 @@ a {
 } */
 
 /* Brand Name */
-
+#brand{
+  width: 100% !important;
+  text-align: center;
+}
 #brand>a {
   /* font-family: 'Crete Round', serif; */
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: Verdana, sans-serif;
+  text-transform: uppercase;
+  padding-left: 12px;
 }
 
 #brand>a>h1 {
   /* font-family: 'Crete Round', serif; */
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: Verdana, sans-serif;
   font-weight: bold;
+  text-transform: uppercase;
   /* font-size: 100%; */
 }
 
+/* ### Banner ### */
 .banner {
   position: relative;
 }
 
-.banner>img {
+/* .banner>img {
   width: 100%;
-}
+} */
 
 .sb {
   box-shadow: 0 4px 4px -2px #999
@@ -291,14 +330,27 @@ footer>.mapimg {
   /* min-height: 50px; */
 }
 
+.changemap {
+  width: 10%;
+  padding-bottom: 5%;
+  top: 40%;
+  bottom: 0;
+  margin: auto;
+  right: 2%;
+  background-size: 100%;
+  position: absolute;
+  min-height: 50px;
+
+  /* float: right;
+  margin-top: -140px;
+  margin-right: 10px; */
+}
+
 footer>.mapimg>.changemap1 {
-    /* width: 10%; */
-    top: -85px;
+    top: -25px;
     margin: auto;
     left: 2%;
-    /* background: url(../img/icon/abc1.png)no-repeat; */
     background-size: 100%;
-    /* min-height: 50px; */
     float: left;
     padding-bottom: 5%;
     margin-top: -368px;
@@ -313,29 +365,15 @@ footer>.address {
   left: 0;
 
   float: left;
-  height: 30%;
-  width: 50%;
+  height: auto;
+  width: auto;
   /* min-height: 50px; */
   padding-bottom: 1%;
-  border-bottom-right-radius: 5px;
 
   /* background: #fdd2ee  ; */
   /*margin:5% 0 18% 0*/
   ;
 }
-
-/*.changemap {
-    width: 10%;
-    padding-bottom: 5%;
-    top: 50%;
-    bottom: 0;
-    margin: auto;
-    right: 2%;
-    background: url(../img/icon/abc.png)no-repeat;
-    background-size: 100%;
-    position: absolute;
-    min-height: 50px;
-}*/
 
 footer>.address>img.logo {
   display: block;
@@ -1057,7 +1095,7 @@ header>div {
 .formsodienthoaihead>form>.sdtinput {
   float: left;
   width: 90%;
-  margin: 0 auto;
+  margin: 0 3px;
   padding: 1% 4% 2% 4%;
   color: #cecece;
   border: 0px;
@@ -1151,15 +1189,11 @@ header>div {
   height: 100%
 }
 
-
-
-/*
-    tinh hinh
-*/
-
-/*
-    bread / phan trang
-*/
+/*####### NAVBAR #####*/
+.nav-social .row{
+  /*background: cyan;*/
+  padding: 0 3px;
+}
 
 .m_content {
   /* background: yellow; */
@@ -1167,20 +1201,19 @@ header>div {
 }
 
 .breadcrumb_main {
-  margin: 0 10px;
+  /*margin: 0 10px;*/
+  padding: 10px 10px;
 }
 
 .breadcrumb {
   float: left;
-
-  margin-right: 10px;
-  padding: 5px 0px;
-
+  padding: 5px 0;
   font-size: 13px;
 }
 
 .breadcrumb>span {
   color: #333;
+  margin: auto 5px;
 }
 
 .breadcrumb>a>span {
@@ -2100,17 +2133,13 @@ header>div {
     margin: -1px -3px 0 0;
     padding: 0 2px 0 3px;
   }
+
 }
 
-@media screen and (max-width: 295px) {
-  .w650>div>div {
-    height: 35px;
-    width: 100%;
-  }
-
-  .w650>div>div>div>a {
-    font-size: 12px;
-    padding-left: -5px;
+@media screen and (max-width: 205px){
+  #brand>a {
+    font-size: 80%;
+    font-weight: normal;
   }
 }
 
@@ -2518,15 +2547,19 @@ header>div {
 
 /*From Penyakit/Single/*/
 
+.content_h {
+  padding: 0px 10px;
+}
+
 .content_chitiet * {
   max-width: 100%
 }
 
 .content_chitiet {
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   padding: 0px 10px;
 
-  line-height: 30px;
+  line-height: 45px;
 }
 
 .content_chitiet table {
@@ -2562,7 +2595,7 @@ header>div {
 
   color: #0175b2;
   border-bottom: 1px solid #0175b2;
-  background: url("img/dieutri.png") no-repeat left center;
+  /* background: url("img/dieutri.png") no-repeat left center; */
 
   font-size: 14px;
 }
@@ -2571,11 +2604,11 @@ header>div {
   color: red
 }
 
-.content_chitiet li {
+/* .content_chitiet li {
   margin-left: 10px;
 
   list-style: none;
-}
+} */
 
 .chuthich {
   font-size: 14px
@@ -2635,9 +2668,23 @@ header>div {
   text-align: center;
 }
 
-.h1-post{
-  margin: 30px 10px 10px 10px;
+.h1-post, .h2-post, .h3-post, .h4-post{
+  margin: 0px 10px;
+  padding: 10px;
+  background-color: #fdd2ee;
+  color: #3f729b;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  /* font-weight: 2000;  */
 }
+
+/* .h3-post{
+  padding: 10px;
+  background-color: #fdd2ee;
+  color: #3f729b;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+} */
 
 .post-time{
   color:#A7A7A7;
@@ -2655,31 +2702,26 @@ header>div {
 }
 
 .chitietbaiviet-lienquan {
-  margin-top: 7%;
-  margin-bottom: 1.5%;
-  padding: 1px 10%;
+  /* margin-top: 7%;
+  margin-bottom: 1.5%; */
+  margin: 10px 0;
+  padding: 0 10%;
   border: 1px dashed gray;
 }
-
-/* .chitietbaiviet-lienquan ul{
-  background: cyan;
-  margin-top: -50px;
-} */
 
 .chitietbaiviet-lienquan ul li{
   text-align: justify;
   white-space: pre-line;
   word-spacing: 2px;
-  line-height: 25px;
-  /* margin-top: -12px; */
+  line-height: 22px;
+  margin-bottom: 5px;
 }
 
 .chitietbaiviet-lienquan ol li{
   text-align: justify;
   white-space: pre-line;
   word-spacing: 2px;
-  line-height: 25px;
-  /* margin-top: -12px; */
+  line-height: 22px;
 }
 
 .chitietbaiviet-lienquan ul li i{
@@ -2692,7 +2734,7 @@ header>div {
 }
 
 /* .chitietbaiviet-lienquan ul li{
-  background: darkcyan;
+  background: yellow;
 } */
 
 .chitietbaiviet-lienquan ul li ul{
@@ -2701,18 +2743,18 @@ header>div {
 }
 
 .chitietbaiviet-lienquan ul li ol{
-  margin-bottom: -20px;
+  /* margin-bottom: -20px; */
   /* padding-bottom: -20px; */
 }
 
-.chitietbaiviet-lienquan ul li ul li{
-  text-align: justify;
-  white-space: pre-line;
-  word-spacing: 2px;
-  /* line-height: 5px; */
-  margin-top: -25px;
-  margin-left: 20px;
+.chitietbaiviet-lienquan ul li ul{
+  padding-left:10px;
 }
+
+.chitietbaiviet-lienquan ul li ul li{
+  margin: -10px 0;
+}
+
 .chitietbaiviet-lienquan ol li ol li{
   text-align: justify;
   white-space: pre-line;
@@ -2743,7 +2785,6 @@ header>div {
   white-space: pre-line;
   word-spacing: 2px;
   line-height: 25px;
-  margin-top: -12px;
 }
 
 .chitietbaiviet-lienquan ol li p{
@@ -2751,7 +2792,8 @@ header>div {
   white-space: pre-line;
   word-spacing: 2px;
   line-height: 25px;
-  margin-top: -12px;
+  /* margin-top: -20px; */
+  margin-bottom: -5px;
 }
 
 .chitietbaiviet-lienquan ul>li>a {
@@ -2762,8 +2804,8 @@ header>div {
 
 .content_chitiet .special-type{
   text-align: center;
-  margin-top: -20px;
-  margin-bottom: 50px;
+  /* margin-top: -20px; */
+  /* margin-bottom: 50px; */
 }
 
 .content_chitiet>.special-type>a>.special-rgb{
