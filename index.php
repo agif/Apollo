@@ -26,9 +26,11 @@
     <link rel="stylesheet" type="text/css" href="css/JS5.css">
 </head>
 <body>
+    
 <?php include ('layouts/header.php'); ?>
 <?php include ('layouts/banner.php'); ?>
 <?php include ('layouts/content.php'); ?>
+<?php include ('layouts/content2.php'); ?>
 <?php include ('layouts/footer.php'); ?>
 
 <script language="javascript" type="text/javascript" src="aspx/LsJS.aspx"></script>
