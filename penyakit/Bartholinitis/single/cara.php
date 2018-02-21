@@ -188,7 +188,7 @@
     					</div>
     					<li>
     						<a href="gejala.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Bartolinitis.jpg"
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Bartholinitis.jpg"
     							 align="left">
     								Gejala Bartholinitis
     						</a>
@@ -196,21 +196,21 @@
     					<hr>
                         <li>
     						<a href="klinik.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Bartolinitis.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Bartholinitis.jpg" align="left">
     								Klinik Terbaik Yang Menangani Bartholinitis
     						</a>
     					</li>
     					<hr>
     					<li>
     						<a href="biaya.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Bartolinitis.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Bartholinitis.jpg" align="left">
     								Biaya Seputar Bartholinitis
     						</a>
     					</li>
     					<hr>
     					<li>
     						<a href="penyebab.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Bartolinitis.jpg"
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Bartholinitis.jpg"
     							 align="left">
     							 	Penyebab Bartholinitis
     						</a>

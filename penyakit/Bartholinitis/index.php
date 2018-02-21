@@ -67,7 +67,7 @@
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
                                     <a href="single/gejala.php">
-                                        <img src="thumbnail/Gejala-Bartolinitis.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Gejala-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
@@ -86,7 +86,7 @@
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
                                     <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-Pengobatan-Bartolinitis.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Cara-Pengobatan-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
@@ -105,7 +105,7 @@
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
                                     <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Bartolinitis.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Klinik-Pengobatan-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
@@ -125,7 +125,7 @@
                             <div class="row">
                                 <div class="col-md-4 text-center mb-3 mt-2">
                                     <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Pengobatan-Bartolinitis.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Biaya-Pengobatan-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
@@ -144,7 +144,7 @@
                             <div class="row">
                                 <div class="col-md-4 text-center mb-3 mt-2">
                                     <a href="single/penyebab.php">
-                                        <img src="thumbnail/Penyebab-Bartolinitis.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Penyebab-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">

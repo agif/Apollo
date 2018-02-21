@@ -188,7 +188,7 @@
     					<hr>
     					<li>
     						<a href="penyebab.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Erosi-Serviks.jpg"
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Erosi-Serviks.jpg"
     							 align="left">
     							 	Penyebab Erosi Serviks
     						</a>

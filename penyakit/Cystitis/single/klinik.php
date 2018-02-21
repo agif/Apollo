@@ -125,17 +125,15 @@
                         <p class="text-justify">
                             <strong class="red-text"><b>Klinik Sentosa</b></strong> adalah salah satu klinik spesialis penyakit kulit dan kelamin yang berada di Jakarta, Indonesia. Menangani setiap permasalahan penyakit kulit dan kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Didukung oleh dokter ahli dan peralatan medis yang modern guna membantu proses pengobatan  penyakit kelamin.
                         </p>
-                        <br>
 
-                        
                         <div class="container card card-body">
                             <h6 class="light-blue-text card-title font-weight-bold">Klinik Sentosa buka setiap hari:</h6><hr>
-                            <dl class="row">
+                            <dl class="row klinik-special">
                                 <dt class="col-sm-5 card-header blue lighten-5">Jam Buka </dt>
                                 <dd class="col-sm-7 card-header blue lighten-4">08.00 - 22.00 (Sepanjang hari dalam seminggu)</dd>
                                 <!-- <dd class="col-sm-9 offset-sm-3">Donec id elit non mi porta gravida at eget metus.</dd> -->
                             </dl>
-                            <dl class="row">
+                            <dl class="row klinik-special">
                                 <dt class="col-sm-5 card-header blue lighten-5">Alamat Klinik Sentosa </dt>
                                 <dd class="col-sm-7 card-header blue lighten-4">Beralamat di ..............................</dd>
                                 <!-- <dd class="col-sm-9 offset-sm-3">Donec id elit non mi porta gravida at eget metus.</dd> -->

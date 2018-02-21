@@ -184,28 +184,28 @@
 						</div>
 						<li>
 							<a href="gejala.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/bartholinitis.jpg"
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Bartholinitis.jpg"
 								 align="left"> Gejala Bartholinitis
 							</a>
 						</li>
 						<hr>
 						<li>
 							<a href="cara.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/pengobatan-Bartholinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Bartholinitis.jpg" align="left">
 									Cara Mengangani Bartholinitis
 							</a>
 						</li>
 						<hr>
 						<li>
 							<a href="klinik.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/klinik-pengobatan-Bartholinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Bartholinitis.jpg" align="left">
 									Klinik Terbaik Yang Menangani Bartholinitis
 							</a>
 						</li>
 						<hr>
 						<li>
 							<a href="biaya.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/biaya-pengobatan-Bartholinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Bartholinitis.jpg" align="left">
 									Biaya Seputar Bartholinitis
 							</a>
 						</li>

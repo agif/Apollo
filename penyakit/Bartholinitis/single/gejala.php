@@ -91,7 +91,9 @@
 							<a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
 							</a><a href="#"><span style="color:#0000FF"><strong>>>> pelajari lebih lanjut mengenai gejala bartholinitis </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
 						</p>
-						<p class="font-weight-bold">Gejala Pada Penyakit Bartholinitis Meliputi:</p>
+						<p class="font-weight-bold">
+							Gejala Pada Penyakit Bartholinitis Meliputi:
+						</p>
 						<p>
 							Salah satu bentuk yang kronis dari bartholinitis bisa berlangsung bagi wanita. Namun kadang-kadang rasa sakit didaerah labia atau ketidaknyamanan saat berhubungan seks. Yang paling umum dari bentuk yang kronis penyakit ini adalah pembentukan kista. Jika tidak terlalu besar, tidak memberikan ketidaknyamanan khusus yang sudah ada didalam tubuh secara bertahun-tahun. Jika tidak terjadi pembengkakan kista, gejala berikut bissa muncul:
 						</p>
@@ -182,28 +184,28 @@
 						</div>
 						<li>
 							<a href="cara.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Bartolinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Bartholinitis.jpg" align="left">
 								Cara Mengangani Bartholinitis
 							</a>
 						</li>
 	                    <hr>
 	                    <li>
 							<a href="klinik.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Bartolinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Bartholinitis.jpg" align="left">
 									Klinik Terbaik Yang Menangani Bartholinitis
 							</a>
 						</li>
 						<hr>
 						<li>
 							<a href="biaya.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Bartolinitis.jpg" align="left">
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Bartholinitis.jpg" align="left">
 									Biaya Seputar Bartholinitis
 							</a>
 						</li>
 						<hr>
 						<li>
 							<a href="penyebab.php">
-								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Bartolinitis.jpg"
+								<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Bartholinitis.jpg"
 								 align="left" >
 								 	Penyebab Bartholinitis
 							</a>

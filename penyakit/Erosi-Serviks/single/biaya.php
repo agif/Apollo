@@ -148,7 +148,7 @@
                         <hr>
                         <li>
     						<a href="klinik.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Erosi-Serviks.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Penyebab-Erosi-Serviks.jpg" align="left">
     								Klinik Terbaik Yang Menangani Erosi Serviks
     						</a>
     					</li>
