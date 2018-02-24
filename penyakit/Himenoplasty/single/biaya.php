@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -153,7 +153,7 @@
     					<hr> -->
     					<li>
     						<a href="cara.php">
-    							<img class="img-thumbnail img-responsive img-fluid" align="left" src="../thumbnail/Cara-Pengobatan-Hymenoplasti.jpg">
+    							<img class="img-thumbnail img-responsive img-fluid" align="left" src="../thumbnail/Cara-Pengobatan-Hymenoplasty.jpg">
     								Cara Mengangani Himenoplasty
     						</a>
     					</li>

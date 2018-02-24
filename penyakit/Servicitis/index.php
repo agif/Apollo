@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -131,7 +131,7 @@
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
                                     <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Servicitis Tidak Teratur</h4>
+                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Servicitis</h4>
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">

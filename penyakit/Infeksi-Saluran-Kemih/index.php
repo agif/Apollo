@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -67,6 +67,25 @@
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Infeksi-Saluran-Kemih-Pada-Wanita.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Infeksi Saluran Kemih Pada Wanita</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Infeksi saluran kemih (ISK) adalah jenis infeksi yang paling umum yang mempengaruhi saluran kemih. Urine atau kencing adalah cairan yang disaring keluar dari aliran darah oleh ginjal ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4  text-center mb-3 mt-2">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Infeksi-Saluran-Kemih-Pada-Wanita.jpg" class="img-thumbnail"/>
                                     </a>
@@ -77,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Tidak semua orang akan memiliki semua gejala ini dan wanita kemungkinan akan mengalami tingkat yang berbeda-beda. Dalam beberapa kasus gejalanya tidak dapat terlihat...
+                                        Tidak semua orang akan memiliki semua gejala ini dan wanita kemungkinan akan mengalami tingkat yang berbeda-beda. Dalam beberapa kasus gejalanya tidak dapat terlihat ...
                                     </p>
                                     <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

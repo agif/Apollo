@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -81,7 +81,7 @@
                                 Pengobatan Untuk Penyakit Vaginitis
                             </p>
                             <p>
-                                Pengobatan standar untuk penyakit vaginitisyang disebabkan oleh bakteri, meskipun pengobatan vaginitis lain telah terbukti memiliki keefektifan yang setara, namun akan dikaitkan dengan tingkat kekambuhan yang lebih tinggi. Salah satu cara untuk menentukan infeksi disebabkan oleh persistensi infeksi awal atau infeksi ulang. Pengobatan vaginitis tergantung pada apa yang menjadi penyebabnya.
+                                Pengobatan standar untuk penyakit vaginitis yang disebabkan oleh bakteri, meskipun pengobatan vaginitis lain telah terbukti memiliki keefektifan yang setara, namun akan dikaitkan dengan tingkat kekambuhan yang lebih tinggi. Salah satu cara untuk menentukan infeksi disebabkan oleh persistensi infeksi awal atau infeksi ulang. Pengobatan vaginitis tergantung pada apa yang menjadi penyebabnya.
                             </p>
                             <p>
                                 Jika yang menyebabkan penyakit vaginitis itu adalah bakteri, dokter akan menyarankan pengobatan apa yang harus dijalani setelah adanya pemeriksaan laboratorium dan telah adanya diagnosis. Penyebab infeksi dapat menentukan pengobatan apa yang tepat. Jenis penyakit vaginitis sulit dibedakan berdasarkan gejala, sehingga pasien harus menjalani pemeriksaan pelvis(panggul). Pemeriksaan pelvis (panggul) terdiri dari pemeriksaan vagina dan serviks (leher rahim) sampai pengambilan sampel sekresi vagina di laboratorium. 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -64,6 +64,25 @@
                     <h3 class="h3-responsive ml-2">Cystitis</h3>
                     <hr>
                     <ul class="list-unstyled">
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Cystitis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Cystitis</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Cystitis adalah radang kandung kemih yang seringkali karena adanya infeksi bakteri. Dikenal sebagai infeksi saluran kencing (ISK). Hal seperti ini bisa diakibatkan karena hubungan seksual ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">

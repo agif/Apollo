@@ -66,6 +66,25 @@
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Bartholinitis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Bartholinitis</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Bartholinitis adalah pembengkakan kelenjar bartholin. Infeksi masuk melalui saluran kelenjar luar dan kemudian proses peradangan menyebar ke parenkim (peradangan serosa dan purulen) ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4  text-center mb-3 mt-2">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Bartholinitis.jpg" class="img-thumbnail"/>
                                     </a>

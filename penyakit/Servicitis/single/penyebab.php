@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -72,19 +72,19 @@
                             </div>
                             <div class="clear"></div>
                         </div>
-                        <h4 class="h4-post h4-responsive"><i class="fa fa-th-large" aria-hidden="true"></i> Penyebab Servicitis Tidak Teratur</h4>
+                        <h4 class="h4-post h4-responsive"><i class="fa fa-th-large" aria-hidden="true"></i> Penyebab Servicitis</h4>
                         <span class="post-time">
 							Tanggal Diposting : 10-01-2018 - Tampilan : 667
 						</span><br><br>
                         <div class="content_chitiet">
                             <p class="font-weight-bold">
-                                Apa Yang Menjadi Penyebab Servicitis Tidak Teratur?
+                                Apa Yang Menjadi Penyebab Servicitis?
                             </p>
                             <p>
                                 Siklus Servicitis bisa terganggu jika Anda memiliki ketidakseimbangan hormon estrogen dan progesteron. Bukan tidak biasa memiliki ketidakseimbangan hormon selama beberapa tahun setelah pubertas dan sebelum menopause. Hal ini dapat menyebabkan siklus Servicitis menjadi lebih panjang atau pendek. Periode nya yang kemungkinan akan menjadi lebih ringan atau lebih berat.
                             </p>
                             <p>
-                                Sejumlah faktor yang kemungkinan mengakibatkan Servicitis tidak teratur. Sebagian besar berhubungan dengan roduksi hormon. Dua hormon yang mempengaruhi Servicitis adalah estrogen dan progesteron atau hormon yang mengatur siklus. Servicitis tidak teratur terkait dengan kondisi yang disebut anovulasi atau ovulasi tidak terjadi selama silkus menstuasi dan biasanya karena ketidakseimbangan hormon yang parah. Terkadang Servicitis tidak teratur karena keridakseimbangan hormon yang lebih rendah. Kemungkinan masih berovulasi tapi waktu ovulasi bisa sangat bervariasi dari bulan ke bulan. Dipengaruhi oleh gaya hidup dan kondisi yang dapat mempengaruhi siklus Servicitis.
+                                Sejumlah faktor yang kemungkinan mengakibatkan Servicitis. Sebagian besar berhubungan dengan roduksi hormon. Dua hormon yang mempengaruhi Servicitis adalah estrogen dan progesteron atau hormon yang mengatur siklus. Servicitis terkait dengan kondisi yang disebut anovulasi atau ovulasi tidak terjadi selama silkus menstuasi dan biasanya karena ketidakseimbangan hormon yang parah. Terkadang Servicitis karena keridakseimbangan hormon yang lebih rendah. Kemungkinan masih berovulasi tapi waktu ovulasi bisa sangat bervariasi dari bulan ke bulan. Dipengaruhi oleh gaya hidup dan kondisi yang dapat mempengaruhi siklus Servicitis.
                             </p>
 
                             <div class="chitietbaiviet-lienquan container card">
@@ -100,16 +100,16 @@
                             </p>
                             <p class="special-type">
                                 <a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span></a>
-                                <a href="#"><span style="color:#0000FF"><strong>>>> pelajari lebih lanjut mengenai penyebab Servicitis tidak teratur </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
+                                <a href="#"><span style="color:#0000FF"><strong>>>> pelajari lebih lanjut mengenai penyebab Servicitis </strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini] <<< </strong></span></a>
                             </p>
                             <p class="font-weight-bold">
-                                Ada 4 Penyebab Umum Untuk Periode Servicitis Tidak Teratur
+                                Ada 4 Penyebab Umum Untuk Periode Servicitis
                             </p>
                             <p>
                                 Rata-rata siklus Servicitis sekitar 28-35 hari, dan pendarahan Servicitis biasanya berlangsung antara 3-7 hari. Perlu diingat bahwa apa yang dimaksud dengan Servicitis periode normal atau rata-rata untuk satu orang bisa berbeda dengan yang dialami orang lain. Jika periode Servicitis tiba-tiba bervariasi dari rata-rata panjang dan arusnya maka itu pertanda bahwa Servicitis tidak beraturan.
                             </p>
                             <p>
-                                Periode Servicitis kemungkinan akan muncul lebih awal dari perkiraan atau tidak muncul sama sekali. Berikut adalah 4 penyebab yang paling umum yang dapat menyebabkan periode Servicitis tertunda atau awal sehingga menyebabkan siklus Servicitis tidak teratur:
+                                Periode Servicitis kemungkinan akan muncul lebih awal dari perkiraan atau tidak muncul sama sekali. Berikut adalah 4 penyebab yang paling umum yang dapat menyebabkan periode Servicitis tertunda atau awal sehingga menyebabkan siklus Servicitis:
                             </p>
 
                             <div class="chitietbaiviet-lienquan container card">
@@ -126,7 +126,7 @@
                                 <a href="#"><span style="color:#0000FF"><strong></strong></span><span style="color:#FF0000"><strong> &gt;&gt;&gt; [klik disini untuk konsultasi dengan dokter] <<< </strong></span></a>
                             </p>
                             <p class="font-weight-bold">
-                                Faktor Yang Dapat Memicu Periode Servicitis Tidak Teratur:
+                                Faktor Yang Dapat Memicu Periode Servicitis:
                             </p>
 
                             <div class="chitietbaiviet-lienquan container card">
@@ -138,7 +138,7 @@
                                     </li>
                                     <li><big>Tekanan</big>
                                         <p class="black-text">
-                                            Stress kronis atau bahkan kegelisahan jangka pendek mengenai maslaah tertentu bisa memunculkan ketidakseimbangan hormon dan menyebabkan periode mentruasi dan siklus tidak teratur.
+                                            Stress kronis atau bahkan kegelisahan jangka pendek mengenai maslaah tertentu bisa memunculkan ketidakseimbangan hormon dan menyebabkan periode mentruasi dan siklus.
                                         </p>
                                     </li>
                                     <li><big>Pil KB</big>
@@ -148,12 +148,12 @@
                                     </li>
                                     <li><big>Sindrom Ovarium Polikistik (PCOS)</big>
                                         <p class="black-text">
-                                            Kondisi ini menyebabkan kista kecil terbentuk pada ovarium (indung telur) mengganggu ovulasi (proses yang terjadi didalam siklus Servicitis wanita) tidak teratur. Biasanya memiliki Servicitis yang tidak teratur selain menyebabkan kemandulan atau infertilitas juga dapat meningkatkan risiko diabetes dan penyakit jantung.
+                                            Kondisi ini menyebabkan kista kecil terbentuk pada ovarium (indung telur) mengganggu ovulasi (proses yang terjadi didalam siklus Servicitis wanita). Biasanya memiliki Servicitis yang selain menyebabkan kemandulan atau infertilitas juga dapat meningkatkan risiko diabetes dan penyakit jantung.
                                         </p>
                                     </li>
                                     <li><big>Penyakit Lainnya</big>
                                         <p class="black-text">
-                                            Gangguan tiroid dapat menyebabkan periode Servicitis tidak teratur jika kadar hormon tiroid darah terlalu rendah atau terlalu tinggi. Kondisi kesehatan lainnya yang dapat menyebabkan siklus Servicitis tidak teratur meliputi penyakit mneular seksual (PMS), diabetes, fibroid (mioma uteri atau daging tumbuh non kanker dalam rahim yang dapat muncul selama tahun-tahun masa subur seorang wanita), gangguan makan dan endometriosis (suatu gangguan pada jaringan yang bisanya melapisi rahim tumbuh diluar rahim).
+                                            Gangguan tiroid dapat menyebabkan periode Servicitis jika kadar hormon tiroid darah terlalu rendah atau terlalu tinggi. Kondisi kesehatan lainnya yang dapat menyebabkan siklus Servicitis meliputi penyakit mneular seksual (PMS), diabetes, fibroid (mioma uteri atau daging tumbuh non kanker dalam rahim yang dapat muncul selama tahun-tahun masa subur seorang wanita), gangguan makan dan endometriosis (suatu gangguan pada jaringan yang bisanya melapisi rahim tumbuh diluar rahim).
                                         </p>
                                     </li>
                                     <li><big>Usia</big>

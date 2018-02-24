@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -186,31 +186,31 @@
                             </div>
                             <li>
                                 <a href="pengertian.php">
-                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Menstruasi.jpg" align="left"> Menstruasi Tidak Teratur
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Menstruasi.jpg" align="left"> Definisi Menstruasi Tidak Teratur
                                 </a>
                             </li>
                             <hr>
                             <li>
                                 <a href="gejala.php">
-                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Menstruasi.jpg" align="left"> Gejala Menstruasi
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Menstruasi.jpg" align="left"> Gejala Menstruasi Tidak Teratur
                                 </a>
                             </li>
                             <hr>
                             <li>
                                 <a href="cara.php">
-                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Menstruasi.jpg" align="left"> Cara Mengangani Menstruasi
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Menstruasi.jpg" align="left"> Cara Mengangani Menstruasi Tidak Teratur
                                 </a>
                             </li>
                             <hr>
                             <li>
                                 <a href="klinik.php">
-                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Menstruasi.jpg" align="left"> Klinik Terbaik Yang Menangani Menstruasi
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Menstruasi.jpg" align="left"> Klinik Terbaik Yang Menangani Menstruasi Tidak Teratur
                                 </a>
                             </li>
                             <hr>
                             <li>
                                 <a href="biaya.php">
-                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Menstruasi.jpg" align="left"> Biaya Seputar Menstruasi
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Menstruasi.jpg" align="left"> Biaya Seputar Menstruasi Tidak Teratur
                                 </a>
                             </li>
                         </ul>

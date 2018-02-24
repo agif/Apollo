@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -56,13 +56,32 @@
                         </div> -->
                         <div class="breadcrumb">
                             <a href="#in-here" itemprop="url">
-                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Erosi-Serviks</span>
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Erosi Serviks</span>
                             </a>
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h3 class="h3-responsive ml-2">Erosi-Serviks</h3>
+                    <h3 class="h3-responsive ml-2">Erosi Serviks</h3>
                     <ul class="list-unstyled">
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Erosi-Serviks.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Erosi Serviks</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Adanya gejala tergantung pada apa yang mendasarinya. Biasanya gejala erosi serviks terjadi pada wanita. Gejala erosi serviks bukan suatu kelainan, namun terkadang gejalanya dikaitkan dengan gejala-gejala ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
                                 <div class="col-md-4  text-center mb-3 mt-2">
@@ -72,7 +91,7 @@
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
                                     <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Erosi-Serviks</h4>
+                                         <h4 class="h4-responsive pinked-low-text">Gejala Erosi Serviks</h4>
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
