@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -196,6 +196,13 @@
                             <div class="card card-header pinked-low mb-3">
                                 <h5 class="h5-responsive white-text">Posting Terkait</h5>
 							</div>
+                            <li>
+                                <a href="pengertian.php">
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Servicitis.jpg"
+                                     align="left"> Pengertian Servicitis
+                                </a>
+                            </li>
+                            <hr>
                             <li>
                                 <a href="cara.php">
                                     <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Servicitis.jpg" align="left"> Cara Mengangani Servicitis

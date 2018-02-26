@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -82,7 +82,7 @@
                             Salah satu klinik yang menangani segala jenis penyakit yang berhubungan dengan organ seksual seperti menangani penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Adapun penanganan mengenai rekonstruksi selaput dara yang mana untuk mengembalikan selaput dara ke keadaan pra seksual, vagian Anda akan diremajakan kembali.           
                         </p>
                         <p>
-                            Hymenoplasty adalah prosedur sederhana yang akan memperbaiki selaput dara yang robek dan menyatukan jaringan sehingga akan tertutup oleh vagina. Dalam beberapa budaya, selaput dara yang telah robek dapat mempengaruhi prospek pernikahan seseorang dan kehidupannya. Dengan mengembalikan dan memperbaiki jaringan, seorang wanita dapat memperoleh kembali keperawanana dan merasa nyaman dengan tubuhnya.
+                            Himenoplasty adalah prosedur sederhana yang akan memperbaiki selaput dara yang robek dan menyatukan jaringan sehingga akan tertutup oleh vagina. Dalam beberapa budaya, selaput dara yang telah robek dapat mempengaruhi prospek pernikahan seseorang dan kehidupannya. Dengan mengembalikan dan memperbaiki jaringan, seorang wanita dapat memperoleh kembali keperawanana dan merasa nyaman dengan tubuhnya.
                         </p>
 
                         <p class="special-type">
@@ -164,6 +164,14 @@
     					<div class="card card-header pinked-low mb-3">
     						<h5 class="h5-responsive white-text">Posting Terkait</h5>
     					</div>
+                        <li>
+                            <a href="pengertian.php">
+                                <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Himenoplasty.jpg"
+                                 align="left">
+                                    Definisi Himenoplasty
+                            </a>
+                        </li>
+                        <hr>
     					<!-- <li>
     						<a href="gejala.php">
     							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/gejala-Himenoplasty.jpg"
@@ -174,14 +182,14 @@
     					<hr> -->
     					<li>
     						<a href="cara.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Hymenoplasti.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Himenoplasty.jpg" align="left">
     								Cara Mengangani Himenoplasty
     						</a>
     					</li>
                         <hr>
     					<li>
     						<a href="biaya.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Untuk-Pengobatan-Hymenoplasty.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Himenoplasty.jpg" align="left">
     								Biaya Seputar Himenoplasty
     						</a>
     					</li>

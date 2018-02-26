@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -80,7 +80,7 @@
                             Mengapa Rekonstruksi Selaput Dara Perlu Dipertimbangkan?
                         </p>
                         <p>
-                            Ada banyak alasan mengapa wanita banyak mempertimbangkan ketika ingin menjalani prosedur hymenoplasty. Beberapa alasan untuk melakukan hymenoplasty meliputi:
+                            Ada banyak alasan mengapa wanita banyak mempertimbangkan ketika ingin menjalani prosedur Himenoplasty. Beberapa alasan untuk melakukan Himenoplasty meliputi:
                         </p>
                     </div>
 
@@ -92,7 +92,7 @@
                                 <li class="red-text"><b>Penyembuhan Secara Psikologis</b>
                                 <p class="black-text">Jika seorang wanita yang mengalami pemerkosaan atau pelecehan seksual kemungkinan besar selaput daranya akan robek. Sebagai cara untuk memperbaiki kerusakan psikologis dari pelecehan jenis seperti ini, beberapa dari wanita memilih untuk melakukan operasi selaput dara untuk mengembalikan secara fisik maupun mental.</p></li>
                                 <li class="red-text"><b>Adanya Cedera Pada Selaput Dara</b>
-                                <p class="black-text">Bagi beberapa wanita yang memiliki selaput dara yang masih utuh lalu rusak selama mengalami hubungan seksual yang pertama. Selaput dara bisa robek sebelum melakukan hubungan seksual. Penggunaan tampon dan olahraga yang kuat dapat membuat selaput dara robek, dalam kasus selaput dara yang robek karena aktifitas ini, hymenoplasty adalah cara satu-satunya.</p></li>
+                                <p class="black-text">Bagi beberapa wanita yang memiliki selaput dara yang masih utuh lalu rusak selama mengalami hubungan seksual yang pertama. Selaput dara bisa robek sebelum melakukan hubungan seksual. Penggunaan tampon dan olahraga yang kuat dapat membuat selaput dara robek, dalam kasus selaput dara yang robek karena aktifitas ini, Himenoplasty adalah cara satu-satunya.</p></li>
                                 <li class="red-text"><b>Karena Usulan Dari Orang</b>
                                 <p class="black-text">Ketika seorang wanita melakukan hubungan seksual dengan pasangan yang baru namun selaput dara nya robek saat melakukan hubungan seksual kemungkinan diperlukan melakukan operasi rekonstruksi selpaut dara.</p></li>
                              </ul>
@@ -143,6 +143,14 @@
     					<div class="card card-header pinked-low mb-3">
     						<h5 class="h5-responsive white-text">Posting Terkait</h5>
     					</div>
+                        <li>
+                            <a href="pengertian.php">
+                                <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Himenoplasty.jpg"
+                                 align="left">
+                                    Definisi Himenoplasty
+                            </a>
+                        </li>
+                        <hr>
     					<!-- <li>
     						<a href="gejala.php">
     							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/gejala-Himenoplasty.jpg"
@@ -153,14 +161,14 @@
     					<hr> -->
     					<li>
     						<a href="cara.php">
-    							<img class="img-thumbnail img-responsive img-fluid" align="left" src="../thumbnail/Cara-Pengobatan-Hymenoplasti.jpg">
+    							<img class="img-thumbnail img-responsive img-fluid" align="left" src="../thumbnail/Cara-Pengobatan-Himenoplasty.jpg">
     								Cara Mengangani Himenoplasty
     						</a>
     					</li>
                         <hr>
                         <li>
     						<a href="klinik.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Hymenoplasty.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Himenoplasty.jpg" align="left">
     								Klinik Terbaik Yang Menangani Himenoplasty
     						</a>
     					</li>

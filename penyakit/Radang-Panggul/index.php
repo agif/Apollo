@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -56,17 +56,36 @@
                         </div> -->
                         <div class="breadcrumb">
                             <a href="#in-here" itemprop="url">
-                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Polip-Serviks</span>
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Radang Panggul</span>
                             </a>
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h3 class="h3-responsive ml-2">Polip-Serviks</h3>
+                    <h3 class="h3-responsive ml-2">Radang Panggul</h3>
                     <hr>
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Pengertian Radang Panggul</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Penyakit radang panggul (PID) adalah infeksi yang dapat mempengaruhi rahim, ovarium dan saluran tuba. Jika Anda memiliki penyakit radang panggul (PID) yang tidak diobati maka akan menyebabkan penyumbatan atau adhesi ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
@@ -77,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Beberapa atau kebanyakan dari wanita tidak mengetahui bahwa mereka menderita penyakit radang panggul (PID) karena mereka tidak memiliki tanda dan gejala. Bila gejala memang terjadi maka ...
+                                        Beberapa atau kebanyakan dari wanita tidak mengetahui bahwa mereka menderita penyakit radang panggul (PID) karena mereka tidak memiliki tanda ...
                                     </p>
                                     <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Setelah dilakukan pemeriksaan, dokter akan mengetahui jenis bakteri yang menjadi penyebab infeksi penyakit radang panggul (PID). Dalam beberapa hari setelah pengobatan dimulai, gejala yang ...
+                                        Setelah dilakukan pemeriksaan, dokter akan mengetahui jenis bakteri yang menjadi penyebab infeksi penyakit radang panggul (PID). Dalam beberapa ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Klinik Utama Sentosa menangani segala jenis penyakit yang berhubungan dengan penyakit kelamin. Salah satu tempat yang sangat sesuai ketika Anda ingin melakukan pengobatan penyakit kulit dan kelamin ...
+                                        Klinik Utama Sentosa menangani segala jenis penyakit yang berhubungan dengan penyakit kelamin. Salah satu tempat yang sangat sesuai ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
@@ -135,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Anda menderita penyakit radang panggul (PID)? Atau sedang mencari informasi mengenai biaya yang harus dikeluarkan untuk melakukan pengobatannya? Jika Anda ingin mengobati penyakit radang panggul ...
+                                        Anda menderita penyakit radang panggul (PID)? Atau sedang mencari informasi mengenai biaya yang harus dikeluarkan untuk melakukan ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +173,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Sejumlah mikroorganisme berbeda dapat menyebabkan atau berkontribusi pada penyakit radang panggul (PID). Patogen (mikroorganisme parasit) menular seksual klamidia trachomatis ...
+                                        Sejumlah mikroorganisme berbeda dapat menyebabkan atau berkontribusi pada penyakit radang panggul (PID). Patogen (mikroorganisme parasit) ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

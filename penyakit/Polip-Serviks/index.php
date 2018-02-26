@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -56,17 +56,36 @@
                         </div> -->
                         <div class="breadcrumb">
                             <a href="#in-here" itemprop="url">
-                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Polip-Serviks</span>
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Polip Serviks</span>
                             </a>
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h3 class="h3-responsive ml-2">Polip-Serviks</h3>
+                    <h3 class="h3-responsive ml-2">Polip Serviks</h3>
                     <hr>
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Polip-Serviks.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Polip Serviks</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Polip serviks adalah tumor pedunculat yang biasanya timbul dari mukosa kanal endoserviks. Biasanya berwarna merah dan memiliki struktur yang lembut dan kenyal ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Polip-Serviks.jpg" class="img-thumbnail"/>
                                     </a>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-pengobatan-Polip-Serviks.jpg" class="img-thumbnail"/>
                                     </a>
@@ -104,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Polip-Serviks.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Klinik terbaik yang ada di Jakarta Indonesia dalam menangani permasalahan penyakit kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologi. Klinik Sentosa sangat ...
+                                        Klinik terbaik yang ada di Jakarta Indonesia dalam menangani permasalahan penyakit kelamin seperti penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan Ginekologit ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Polip-Serviks.jpg" class="img-thumbnail"/>
                                     </a>
@@ -143,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Polip-Serviks.jpg" class="img-thumbnail"/>
                                     </a>

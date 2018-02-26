@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -61,23 +61,23 @@
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h3 class="h3-responsive ml-2">Menstruasi</h3>
+                    <h3 class="h3-responsive ml-2">Menstruasi Tidak Teratur</h3>
                     <hr>
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/pengertian.php">
                                         <img src="thumbnail/Pengertian-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
                                     <a href="single/pengertian.php">
-                                         <h4 class="h4-responsive pinked-low-text">Menstruasi Tidak Teratur</h4>
+                                         <h4 class="h4-responsive pinked-low-text">Menstruasi Yang Tidak Teratur</h4>
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Menstruasi adalah pendarahan vagina normal yang terjadi sebagai bagian dari siklus bulanan wanita. Jika tidak terjadi kehamilan, rahim melepaskan lapisannya. Darah menstruasi sebagian darah dan ...
+                                        Menstruasi adalah pendarahan vagina normal yang terjadi sebagai bagian dari siklus bulanan wanita. Jika tidak terjadi kehamilan, rahim melepaskan ...
                                     </p>
                                     <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -85,7 +85,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Siklus menstruasi seorang wanita berlangsung rata-rata 28 hari. Ovulasi (proses yang terjadi didalam siklus menstruasi wanita), periode ketika telur dilepaskan dari ovarium (indung telur), terjadi pada hari ke 14 ...
+                                        Siklus menstruasi seorang wanita berlangsung rata-rata 28 hari. Ovulasi (proses yang terjadi didalam siklus menstruasi wanita), periode ketika telur ...
                                     </p>
                                     <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Pengobatan untuk menstruasi tidak teratur sering bervariasi berdasarkan jenis ketidakteraturan dan faktor gaya hidup tertentu. Pengobatan untuk menstruasi tidak teratur yang disebabkan oleh pendarahan anovulasi ...
+                                        Pengobatan untuk menstruasi tidak teratur sering bervariasi berdasarkan jenis ketidakteraturan dan faktor gaya hidup tertentu. Pengobatan untuk menstruasi ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -123,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
@@ -134,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Setiap wanita pada masa subur normalnya mengalami menstruasi sebulan sekali atau 21-35 hari sekali. Namun, tidak semua wanita mengalami siklus menstruasi yang teratur. Cukup banyak wanita yang mengalami ...
+                                        Setiap wanita pada masa subur normalnya mengalami menstruasi sebulan sekali atau 21-35 hari sekali. Namun, tidak semua wanita mengalami ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -143,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat penting untuk kehidupan atau kesuburan setiap orang ...
+                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -162,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
@@ -173,7 +173,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Siklus menstruasi bisa terganggu jika Anda memiliki ketidakseimbangan hormon estrogen dan progesteron. Bukan tidak biasa memiliki ketidakseimbangan hormon selama beberapa tahun setelah pubertas ...
+                                        Siklus menstruasi bisa terganggu jika Anda memiliki ketidakseimbangan hormon estrogen dan progesteron. Bukan tidak biasa memiliki ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,26 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Servicitis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8 text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Pengertian Servicitis</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Servicitis adalah iritasi atau infeksi pada serviks (leher rahim). Sejumlah organisme yang berbeda dapat menyebabkannya. Peradangan atau ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Pengobatan servicitis tergantung pada apa yang menjadi penyebabnya, dan salah satunya adalah ...
+                                        Pengobatan servicitis yang disebabkan oleh herpes genital dapat membantu mengurangi jumlah waktu ketika Anda menderita gejala servicitis. Herpes adalah kondisi kronis yang bisa ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Klinik yang bergerak dibidang kesehatan penyakit kulit dan kelamin. Tidak menutup kemungkinan bahwa dijaman sekarang ini banyak yang menderita penyakit kulit dan kelamin, dan tentunya banyak faktor ...
+                                        Klinik yang bergerak dibidang kesehatan penyakit kulit dan kelamin. Tidak menutup kemungkinan bahwa dijaman sekarang ini ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,18 +143,18 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
                                     <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Servicitis Tidak Teratur</h4>
+                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Servicitis</h4>
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat penting untuk kehidupan atau kesuburan setiap orang ...
+                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat penting untuk kehidupan ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +173,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Servicitis adalah radang pada serviks (leher rahim atau bagian rahim yang menonjol ke bawah dalam vagina). Namun penyebab peradangan kemungkinan berasal dari adanya infeksi penyakit menular seksual ...
+                                        Servicitis adalah radang pada serviks (leher rahim atau bagian rahim yang menonjol ke bawah dalam vagina). Namun penyebab peradangan kemungkinan berasal ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

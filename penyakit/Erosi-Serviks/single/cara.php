@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -57,7 +57,7 @@
                         </div> -->
                         <div class="breadcrumb">
                             <a href="../" itemprop="url">
-                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Erosi-Serviks</span>
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Erosi Serviks</span>
                             </a>
                             <span class="breadcrumb-span">
                                 <i class="fa fa-angle-right"></i>
@@ -70,7 +70,7 @@
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <h4 class="h4-post h4-responsive"><i class="fa fa-th-large" aria-hidden="true"></i> Cara Mengobati Erosi-Serviks</h4>
+                    <h4 class="h4-post h4-responsive"><i class="fa fa-th-large" aria-hidden="true"></i> Cara Mengobati Erosi Serviks</h4>
                     <span class="post-time">
                         Tanggal Diposting : 10-01-2018 - Tampilan : 667
                     </span><br><br>
@@ -164,6 +164,14 @@
     					<div class="card card-header pinked-low mb-3">
     						<h5 class="h5-responsive white-text">Posting Terkait</h5>
     					</div>
+                        <li>
+                            <a href="pengertian.php">
+                                <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Erosi-Serviks.jpg"
+                                 align="left">
+                                    Definisi Erosi Serviks
+                            </a>
+                        </li>
+                        <hr>
     					<li>
     						<a href="gejala.php">
     							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Gejala-Erosi-Serviks.jpg"

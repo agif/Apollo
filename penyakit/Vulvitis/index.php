@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,7 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Vulvitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -77,7 +77,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Gejalanya dapat bervariasi antara lain seperti gejala yang sering bergantung pada apa yang menyebabkan radang vulva (vulvitis). Gejala yang paling umum adalah adanya rasa gatal yang teramat ...
+                                        Gejalanya dapat bervariasi antara lain seperti gejala yang sering bergantung pada apa yang menyebabkan radang vulva (vulvitis). Gejala yang paling umum ...
                                     </p>
                                     <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -85,7 +85,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Vulvitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Vulvitis adalah radang dan infeksi pada vulva, organ luar vulva termasuk labia majora dan minora, klitoris dan kelenjar vestibular. Gejala dasar vulvitis adalah kemerahan, pembengkakan pada kulit vulva ...
+                                        Vulvitis adalah radang dan infeksi pada vulva, organ luar vulva termasuk labia majora dan minora, klitoris dan kelenjar vestibular. Gejala dasar vulvitis adalah ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Vulvitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Salah satu klinik yang menangani permasalahan penyakit kulit dan kelamin yang berada di Jakarta. Menangani penyakit menular seksual (PMS), infeksi menular seksual (IMS), Andrologi dan ...
+                                        Salah satu klinik yang menangani permasalahan penyakit kulit dan kelamin yang berada di Jakarta. Menangani penyakit menular seksual (PMS) ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +124,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Vulvitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -135,7 +135,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Berbeda-beda jenis penyakit yang dimiliki dan diderita setiap orang, maka berbeda-beda pula jenis pemeriksaan dan pengobatan yang harus dilewati dan dijalani. Oleh karena itu ...
+                                        Berbeda-beda jenis penyakit yang dimiliki dan diderita setiap orang, maka berbeda-beda pula jenis pemeriksaan dan pengobatan yang harus ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Vulvitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Vulvitis dapat disebabkan oleh kulit yang bereaksi terhadap iritan. Beberapa diantaranya meliputi ...
+                                        Penyebab sel plasma vulvitis tidak diketahui. Temuan sel plasma dalam biopsi kulit kemungkinan sangat tidak spesifik dan kemungkinan merupakan respons reaktif terhadap infeksi ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

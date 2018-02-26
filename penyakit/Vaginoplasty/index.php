@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,26 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Vaginoplasty.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Pengertian Operasi Pengencangan Vagina (Vaginolpasty)</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Pengencangan vagina atau vaginoplasty adalah prosedur operasi untuk mengencangkan otot ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Vaginoplasty.jpg" class="img-thumbnail"/>
                                     </a>
@@ -77,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Vaginoplasty adalah prosedur yang bertujuan untuk mengencangkan vagina yang menjadi kendur akibat persalinan atau penuaan vagina. Meskipun benar bahwa jaringan vagina dapat meregang ...
+                                        Vaginoplasty adalah prosedur yang bertujuan untuk mengencangkan vagina yang menjadi kendur akibat persalinan atau penuaan vagina. Meskipun benar bahwa ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Vaginoplasty.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Setelah melahirkan dan karena faktor usia beberapa dari wanita kemungkinan akan merasa bahwa otot vagina mereka melemah dan longgar. Hal seperti ini bisa menjadi sangat tidak nyaman ...
+                                        Setelah melahirkan dan karena faktor usia beberapa dari wanita kemungkinan akan merasa bahwa otot vagina mereka melemah dan longgar ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -105,7 +124,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Vaginoplasty.jpg" class="img-thumbnail"/>
                                     </a>
@@ -116,7 +135,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Akibat penuaan dan terutama setelah persalinan, banyak wanita yang mengalami bahwa otot vagina mereka melemah dan membentang. Hal seperti ini bisa membuat hubungan intim terasa kurang ...
+                                        Akibat penuaan dan terutama setelah persalinan, banyak wanita yang mengalami bahwa otot vagina mereka melemah dan membentang ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

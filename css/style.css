@@ -1778,13 +1778,50 @@ header>div {
         margin: -1px -3px 0 0;
         padding: 0 2px 0 3px;
     }
+
+    /*#For Caption-Icon*/
+    .caption-icon>h4{
+        font-size: 70% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        top: 0 !important;
+        bottom: 0 !important;
+    }
 }
+
 @media screen and (max-width: 205px) {
     #brand>a {
         font-size: 80%;
         font-weight: normal;
     }
+
+    /*#For Caption-Icon*/
+    /*.col-icon-index{
+        width: 10% !important;
+    }*/
+
+
+    .caption-icon>h4{
+        font-size: 50% !important;
+    }
 }
+
+@media screen and (max-width: 186px) {
+    /*#For Caption-Icon*/
+    .caption-icon{
+        display: none;
+    }
+
+    .col-icon-index{
+        padding: 0;        
+    }
+
+    /*.col-icon-index>a{
+        box-shadow: none !important;
+        border: none !important;
+    }*/
+}
+
 
 /*------*/
 .tbd-phong-a {
@@ -2328,6 +2365,11 @@ header>div {
 
 .caption-icon h4{
     font-size: 100%;
+}
+
+.index-sub-img>a>img{
+    width: 100% !important;
+    height: 100% !important;
 }
 
 /* .chitietbaiviet-lienquan ul li{

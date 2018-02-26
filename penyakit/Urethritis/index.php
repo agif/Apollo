@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,7 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Urethritis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -85,7 +85,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Urethritis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Adanya infeksi urethritis pada wanita karena strain bakteri tertentu telah menjadi resisten terhadap pengobatan tertentu. Dokter akan menyarankan pengobatan lebih lanjut ketika gejalanya ...
+                                        Adanya infeksi urethritis pada wanita karena strain bakteri tertentu telah menjadi resisten terhadap pengobatan tertentu ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Urethritis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Salah satu klinik terbaik pengobatan urethritis yaitu di Klinik Utama Sentosa. Klinik yang menangani segala jenis permasalahan penyakit kulit dan kelamin seperti penyakit menular seksual ...
+                                        Salah satu klinik terbaik pengobatan urethritis yaitu di Klinik Utama Sentosa. Klinik yang menangani segala jenis permasalahan ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +124,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Urethritis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -135,7 +135,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Urethritis adalah pembengkakan pada uretra (saluran yang menghubungkan kantung kemih ke lingkungan luar tubuh). Itulah tabung yang membawa air kencing dari kandung kemih ke luar tubuh ...
+                                        Urethritis adalah pembengkakan pada uretra (saluran yang menghubungkan kantung kemih ke lingkungan luar tubuh). Itulah tabung yang ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Urethritis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Penyakit menular seksual seksual (PMS) adalah penyebab umum urethritis. Organisme seperti neisseria gonorrhoeae yang menyebabkan gonore atau ...
+                                        Penyakit menular seksual seksual (PMS) adalah penyebab umum urethritis. Organisme seperti neisseria gonorrhoeae yang menyebabkan ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,26 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Cystitis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Cystitis</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Cystitis adalah radang kandung kemih yang seringkali karena adanya infeksi bakteri. Dikenal sebagai infeksi saluran kencing (ISK). Hal seperti ini bisa diakibatkan karena hubungan seksual ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Cystitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Cystitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Cystitis bisa berlangsung lebih dari 4 hari dan harus dikonsultasikan dengan dokter. Pada orang tua dan orang yang dengan sistem kekebalan tubuh yang lemah karena bisa terhadap diabetes dan memiliki ...
+                                        Cystitis bisa berlangsung lebih dari 4 hari dan harus dikonsultasikan dengan dokter. Pada orang tua dan orang yang dengan sistem kekebalan tubuh yang lemah karena bisa ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Cystitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Cystitis adalah infeksi saluran kemih yang sangat umum terjadi. Ini sangat mengacu secara khusus pada radang di dinding kandung kemih. Meskipun cystitis biasanya tidak meupakan kondisi yang serius...
+                                        Cystitis adalah infeksi saluran kemih yang sangat umum terjadi. Ini sangat mengacu secara khusus pada radang di dinding kandung kemih. Meskipun ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Cystitis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -135,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Untuk melakukan pengobatan penyakit cystitis khususnya pada wanita, memang tidak mudah untuk mencari tempat pengobatan yang sesuai dengan apa yang kita inginkan. Sangat diakui bahwa ...
+                                        Untuk melakukan pengobatan penyakit cystitis khususnya pada wanita, memang tidak mudah untuk mencari tempat pengobatan yang sesuai dengan apa yang ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Cystitis.jpg" class="img-thumbnail"/>
                                     </a>

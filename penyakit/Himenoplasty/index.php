@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -64,39 +64,39 @@
                     <h3 class="h3-responsive ml-2">Himenoplasty</h3>
                     <hr>
                     <ul class="list-unstyled">
-                        <!-- <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
-                            <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                        <img src="../../img/icon/NewWomen/Himenoplasty.png" class="img-thumbnail"/>
-                                    </a>
-                                </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Himenoplasty</h4>
-                                        <hr class="pinked">
-                                    </a>
-                                    <p class="text-justify">
-                                        Himenoplasty biasanya disebabkan oleh infeksi bakteri, terjadi ketika jenis bakteri yang salah masuk ke kandung kemih. Hal ini bisa terjadi karena bakteri dipindahkan dari anus ke uretra ...
-                                    </p>
-                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </li> -->
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Himenoplasty.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Apa itu Operasi Rekonstruksi Selaput Dara ?</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Selaput dara dapat dengan mudah pecah, baik saat bersenggama atau saat melakukan aktifitas yang kuat seperti menunggang kuda atau melakukan senam ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-Pengobatan-Hymenoplasti.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Cara-Pengobatan-Himenoplasty.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
                                     <a href="single/cara.php">
-                                         <h4 class="h4-responsive pinked-low-text">Operasi Rekonstruksi Selaput Dara</h4>
+                                         <h4 class="h4-responsive pinked-low-text">Bagaimana Operasi Rekonstruksi Selaput Dara Dilakukan</h4>
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Hymenoplasty adalah prosedur operasi yang menggunakan lipatan lapisan vagina untuk merekonstruksi selaput dara yang rusak atau dalam beberapa kasus lainnya. Prosedur ini biasanya dilakukan ...
+                                        Himenoplasty adalah prosedur operasi yang menggunakan lipatan lapisan vagina untuk merekonstruksi selaput dara yang rusak ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,9 +104,9 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Hymenoplasty.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Klinik-Pengobatan-Himenoplasty.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8  text-center mb-3 mt-2">
@@ -115,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        klinik Penanganan mengenai rekonstruksi selaput dara yang mana untuk mengembalikan selaput dara ke keadaan pra seksual, vagian Anda akan diremajakan kembali ...
+                                        klinik Penanganan mengenai rekonstruksi selaput dara yang mana untuk mengembalikan selaput dara ke keadaan pra seksual, vagian Anda akan ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,9 +124,9 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Untuk-Pengobatan-Hymenoplasty.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Biaya-Pengobatan-Himenoplasty.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
@@ -135,7 +135,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Karena biaya yang dikeluarkan dalam melakukan pengobatan di Klinik Utama Sentosa sangatlah terjangkau dan sangat sesuai dengan proses pengobatan nasional ...
+                                        Karena biaya yang dikeluarkan dalam melakukan pengobatan di Klinik Utama Sentosa sangatlah terjangkau dan sangat sesuai dengan proses ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +143,7 @@
                         </li>
                         <!-- <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="../../img/icon/NewWomen/Himenoplasty.png" class="img-thumbnail"/>
                                     </a>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -66,7 +66,26 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Endometriosis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Endometriosis</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Endometriosis adalah ketika jaringan yang melapisi bagian dalam rahim (endometrium) ditemukan atau tumbuh di luar rahim. Masalah yang cukup umum yang bisa sangat menyakitkan ...
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Endometriosis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -77,7 +96,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Apa yang menjadi gejala utama endometriosis adalah adanya rasa nyeri pada panggul (pelvic) yang sering dikaitkan dengan periode menstruasi. Meski pada kebanyakan wanita akan mengalami kram saat ...
+                                        Apa yang menjadi gejala utama endometriosis adalah adanya rasa nyeri pada panggul (pelvic) yang sering dikaitkan dengan periode menstruasi. Meski ...
                                     </p>
                                     <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -85,7 +104,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Endometriosis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -96,7 +115,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Operasi adalah cara untuk mengobati endometriosis. Pengobatan akan tergantung pada tingkat keparahan mengenai tanda dan gejala. Namun pada umumnya dokter akan menyaranakan untuk melakukan ...
+                                        Operasi adalah cara untuk mengobati endometriosis. Pengobatan akan tergantung pada tingkat keparahan mengenai tanda dan gejala. Namun pada umumnya ...
                                     </p>
                                     <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -104,7 +123,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Endometriosis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -115,7 +134,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Endometriosis adalah suatu kondisi dimana lapisan jaringan yang biasanya menutupi bagian dalam rahim yang tumbuh diluarnya. Dan paling sering terjadi pada pada ovarium (indung telur), saluran tuba ...
+                                        Endometriosis adalah suatu kondisi dimana lapisan jaringan yang biasanya menutupi bagian dalam rahim yang tumbuh diluarnya. Dan paling sering ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -124,7 +143,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
                                         <img src="thumbnail/Biaya-Pengobatan-Endometriosis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -135,7 +154,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Untuk melakukan pengobatan penyakit Endometriosis khususnya pada wanita, memang tidak mudah untuk mencari tempat pengobatan yang sesuai dengan apa yang kita inginkan. Sangat diakui bahwa ...
+                                        Untuk melakukan pengobatan penyakit Endometriosis khususnya pada wanita, memang tidak mudah untuk mencari tempat pengobatan yang sesuai ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -143,7 +162,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Endometriosis.jpg" class="img-thumbnail"/>
                                     </a>
@@ -154,7 +173,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Apa yang menjadi gejala utama endometriosis adalah adanya rasa nyeri pada panggul (pelvic) yang sering dikaitkan dengan periode menstruasi. Meski pada kebanyakan wanita akan mengalami kram saat ...
+                                        Apa yang menjadi gejala utama endometriosis adalah adanya rasa nyeri pada panggul (pelvic) yang sering dikaitkan dengan periode menstruasi. Meski pada ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

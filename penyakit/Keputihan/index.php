@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -56,7 +56,7 @@
                         </div> -->
                         <div class="breadcrumb">
                             <a href="#in-here" itemprop="url">
-                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Bartholinitis</span>
+                                <span itemprop="title" class="badge unique-color white-text z-depth-0">Keputihan</span>
                             </a>
                         </div>
                         <div class="clear"></div>
@@ -65,7 +65,26 @@
                     <ul class="list-unstyled">
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
+                                    <a href="single/pengertian.php">
+                                        <img src="thumbnail/Pengertian-Keputihan.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-md-8  text-center mb-3 mt-2">
+                                    <a href="single/pengertian.php">
+                                         <h4 class="h4-responsive pinked-low-text">Definisi Keputihan</h4>
+                                        <hr class="pinked">
+                                    </a>
+                                    <p class="text-justify">
+                                        Keputihan adalah keluarnya cairan dari alat genitalia wanita yang tidak berupa darah. Keputihan disebut juga dengan istirah leukorrhoea atau fluor albus ... 
+                                    </p>
+                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                            <div class="row">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/gejala.php">
                                         <img src="thumbnail/Gejala-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
@@ -84,7 +103,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/cara.php">
                                         <img src="thumbnail/Cara-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
@@ -103,7 +122,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4  text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/klinik.php">
                                         <img src="thumbnail/Klinik-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
@@ -114,7 +133,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Keputihan adalah penyakit yang disebabkan oleh infeksi atau pembengkakan alat kelamin dan umumnya diderita oleh wanita. Hal ini disebabkan infeksi oleh organisme seperti ...
+                                        Keputihan adalah penyakit yang disebabkan oleh infeksi atau pembengkakan alat kelamin dan umumnya diderita oleh wanita. Hal ini disebabkan infeksi ...
                                     </p>
                                     <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
                                     </a>
@@ -123,9 +142,9 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Untuk-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
+                                        <img src="thumbnail/Biaya-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
                                 <div class="col-md-8 text-center mb-3 mt-2">
@@ -134,7 +153,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang berfungsi menjaga kesehatan daerah kewanitaan Anda. Namun ...
+                                        Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang ...
                                     </p>
                                     <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -142,7 +161,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/k-kuning.php">
                                         <img src="thumbnail/Keputihan-Berwarna-Kuning.jpg" class="img-thumbnail"/>
                                     </a>
@@ -153,7 +172,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Keputihan berwarna kuning merupakan penyakit yang disebabkan oleh adanya infeksi atau pembengkakan alat kelamin dan pada umumnya diderita oleh kebanyakan wanita. Hal ini juga disebabkan infeksi oleh orgasme ...
+                                        Keputihan berwarna kuning merupakan penyakit yang disebabkan oleh adanya infeksi atau pembengkakan alat kelamin dan pada umumnya diderita oleh kebanyakan wanita ...
                                     </p>
                                     <a href="single/k-kuning.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -161,7 +180,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/k-darah.php">
                                         <img src="thumbnail/Keputihan-Darah.jpg" class="img-thumbnail"/>
                                     </a>
@@ -172,7 +191,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Pada vagina yang terjadi pendarahan tidak normal memiliki banyak kemungkinan penyebabnya. Dan tidak akan menunjukkan kondisi yang serius. Karena pendarahan bisa berarti masalah kehamilan atau kemungkinan ...
+                                        Pada vagina yang terjadi pendarahan tidak normal memiliki banyak kemungkinan penyebabnya. Dan tidak akan menunjukkan kondisi yang serius. Karena ...
                                     </p>
                                     <a href="single/k-darah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>
@@ -180,7 +199,7 @@
                         </li>
                         <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2">
+                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
                                     <a href="single/penyebab.php">
                                         <img src="thumbnail/Penyebab-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
@@ -191,7 +210,7 @@
                                         <hr class="pinked">
                                     </a>
                                     <p class="text-justify">
-                                        Keputihan patologis dapat terjadi karena alat kelamin luar.  Ada banyak bakteri yang masuk melalui hubungan seksual atau saat haid. Keputihan-keputihan yang berlebihan bisa terjadi pada kontak dengan benda asing ...
+                                        Keputihan patologis dapat terjadi karena alat kelamin luar.  Ada banyak bakteri yang masuk melalui hubungan seksual atau saat haid. Keputihan-keputihan ...
                                     </p>
                                     <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
                                 </div>

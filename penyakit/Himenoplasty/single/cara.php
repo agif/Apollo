@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -79,7 +79,7 @@
                             Bagaimana Operasi Rekonstruksi Selaput Dara Dilakukan?
                         </p>
                         <p>
-                                Hymenoplasty adalah prosedur operasi yang menggunakan lipatan lapisan vagina untuk merekonstruksi selaput dara yang rusak atau dalam beberapa kasus lainnya. Prosedur ini biasanya dilakukan dan menyebabkan pendarahan selama berhubungan seksual pasca persalinan yang pada beberapa budaya dianggap sebagai bukti dari keperawanan. 
+                                Himenoplasty adalah prosedur operasi yang menggunakan lipatan lapisan vagina untuk merekonstruksi selaput dara yang rusak atau dalam beberapa kasus lainnya. Prosedur ini biasanya dilakukan dan menyebabkan pendarahan selama berhubungan seksual pasca persalinan yang pada beberapa budaya dianggap sebagai bukti dari keperawanan. 
                         </p>
                         <p>
                                 Selaput dara adalah jaringan selaput yang sangat tipis, biasanya berbentuk seperti bulan sabit yang sebagian mengelilingi bagian bawah lubang di luar vagina. Pada beberapa wanita, selaput dara hanya sebagian yang menutupi pada pembukaan vagina, sementara di area lain hampir benar-benar mengelilingi pembukaan vagina. Beberapa wanita bahkan lahir tanpa selaput dara sama sekali. 
@@ -104,7 +104,7 @@
                             Selaput dara tidak pecah atau robek tapi hanya diregangkan oleh aktifitas sehari-hari, namun tidak terbatas pada penggunaan tampon, berjalan kaki dan berhubungan seksual. Namun karena wanita dibeberapa budaya mempercayai bahwa selaput dara dalam keadaan aslinya. Pada kebanyakan wanita yang lainnya memiliki prosedur operasi rekonstruksi selaput dara ini hanya untuk alasan pribadi, untuk meningkatkan area intim, kadang dengan prosedur lain seperti tes laboratorium pada vagina.
                         </p>
                         <p>
-                            Hymenoplasty bisa menjadi hal yang sangat sensitif bagi kebanyakan wanita. Hubungan seksual adalah salah satu aktifitas yang paling umum yang menyebabkan selaput dara meregang. Namun, hal itu juga dapat diregangkan karena aktifitas lainnya yang tidak terkait dengan aktifitas seksual. Namun tidak terbatas pada penggunaan tampon, terkena benda tajam, atau jatuh saat bermain. Hymenoplasty adalah satu-satunya prosedur yang akan mengembalikan selaput dara ke keadaan semula.
+                            Himenoplasty bisa menjadi hal yang sangat sensitif bagi kebanyakan wanita. Hubungan seksual adalah salah satu aktifitas yang paling umum yang menyebabkan selaput dara meregang. Namun, hal itu juga dapat diregangkan karena aktifitas lainnya yang tidak terkait dengan aktifitas seksual. Namun tidak terbatas pada penggunaan tampon, terkena benda tajam, atau jatuh saat bermain. Himenoplasty adalah satu-satunya prosedur yang akan mengembalikan selaput dara ke keadaan semula.
                         </p>
                         <p>
                             Dari beberapa wanita yang merasa bahwa memulihkan selaput daranya juga salah satu cara mengembalikan keperawanan mereka atau setidaknya dalam penampilannya. Selaput dara dapat diubah oleh aktifitas selain hubungan seksual namun bagi beberapa wanita kemungkinan merasakan selaput dara yang utuh sebelum menikah. Baik itu untuk alasan budaya, agama atau yang lainnya. 
@@ -118,10 +118,10 @@
                             Operasi Rekonstruksi Selaput Dara Karena Beberapa Alasan
                         </p>
                         <p>
-                            Terlepas dari apapun alasannya, hymenoplasty adalah pilihan yang sangat pribadi. Dokter bedah ginekologi sangat berpengalaman dalam melakukan segala kemungkinan untuk memastikan kenyamanna dan ketenangana fikiran Anda. Semakin banyak wanita yang menggunakan proses hymenoplasty atau rekonstruksi selaput dara karena beberapa alasan.
+                            Terlepas dari apapun alasannya, Himenoplasty adalah pilihan yang sangat pribadi. Dokter bedah ginekologi sangat berpengalaman dalam melakukan segala kemungkinan untuk memastikan kenyamanna dan ketenangana fikiran Anda. Semakin banyak wanita yang menggunakan proses Himenoplasty atau rekonstruksi selaput dara karena beberapa alasan.
                         </p>
                         <p>
-                            Hymenoplasty sebenarnya adalah operasi perbaikan selaput dara atau sebuah membran yang menutup sebagian dari pembukaan vagina. Dalam kebudayaan dan agama, selaput dara seutuhnya secara tradisional dapat menunjukkan tandanya keperawanan seorang wanita. Karena alasan selain adanya hubungan seksual, namun seperti olahraga bisa menjadi robek atau pecah. Dalam keadaan seperti itu banyak wanita yang menginginkan selaput daranya direkonstruksi.
+                            Himenoplasty sebenarnya adalah operasi perbaikan selaput dara atau sebuah membran yang menutup sebagian dari pembukaan vagina. Dalam kebudayaan dan agama, selaput dara seutuhnya secara tradisional dapat menunjukkan tandanya keperawanan seorang wanita. Karena alasan selain adanya hubungan seksual, namun seperti olahraga bisa menjadi robek atau pecah. Dalam keadaan seperti itu banyak wanita yang menginginkan selaput daranya direkonstruksi.
                         </p>
                         <p class="special-type">
                             <a href="#" style="text-align: center;"><span class="special-rgb"><strong><img src="../../../img/icon/special-icon.gif"></strong></span>
@@ -142,6 +142,14 @@
     					<div class="card card-header pinked-low mb-3">
     						<h5 class="h5-responsive white-text">Posting Terkait</h5>
     					</div>
+                        <li>
+                            <a href="pengertian.php">
+                                <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Himenoplasty.jpg"
+                                 align="left">
+                                    Definisi Himenoplasty
+                            </a>
+                        </li>
+                        <hr>
     					<!-- <li>
     						<a href="gejala.php">
     							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/gejala-Himenoplasty.jpg"
@@ -152,14 +160,14 @@
     					<hr> -->
                         <li>
     						<a href="klinik.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Hymenoplasty.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Klinik-Pengobatan-Himenoplasty.jpg" align="left">
     								Klinik Terbaik Yang Menangani Himenoplasty
     						</a>
     					</li>
     					<hr>
     					<li>
     						<a href="biaya.php">
-    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Untuk-Pengobatan-Hymenoplasty.jpg" align="left">
+    							<img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Biaya-Pengobatan-Himenoplasty.jpg" align="left">
     								Biaya Seputar Himenoplasty
     						</a>
     					</li>

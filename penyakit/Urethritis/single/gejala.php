@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Klinik Sentosa</title>
+    <title>Klinik Utama Sentosa</title>
     <meta name="language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
@@ -83,32 +83,6 @@
                             <p>
                                 Gejala utama peradangan uretra (saluran yang menghubungkan kantung kemih ke lingkungan luar tubuh) dari urethritis adalah adanya rasa nyeri dengan buang air kecil (kencing atau disuria). Selain sakit, gejala urethritis juga bisa meliputi:
                             </p>
-
-                            <!-- <div class="chitietbaiviet-lienquan container card">
-                                <ul>
-                                    <li class="list-unstyled"><i class="fa fa-caret-right red-text" aria-hidden="true"></i> <big class="red-text"> Gejala Fisik Pra Urethritis Syndrom (PMS) Meliputi:</big>
-                                        <ul>
-                                            <li>Payudara terasa bengkak</li>
-                                            <li>Sembelit atau diare</li>
-                                            <li>Kembung atau perasaan seperti terengah-engah</li>
-                                            <li>Kram</li>
-                                            <li>Sakit kepala atau sakit punggung</li>
-                                        </ul>
-                                    </li>
-                                    <li class="list-unstyled"><i class="fa fa-caret-right red-text" aria-hidden="true"></i> <big class="red-text"> Gejala Emosional Atau Mental Pra Urethritis Syndrom (PMS) Meliputi:</big>
-                                        <ul>
-                                            <li>Sering merasa lelah</li>
-                                            <li>Terkadang tidur terlalu banyak dan terlalu sedikit</li>
-                                            <li>Perubahan nafsu makan atau seperti mengidam makanan</li>
-                                            <li>Kesulitan untuk berkonsentrasi</li>
-                                            <li>Ketegangan atau kecemasan</li>
-                                            <li>Depresi dan perasaan sedih</li>
-                                            <li>Mood berubah</li>
-                                            <li>Kurang tertarik pada seks</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div> -->
 
                             <div class="chitietbaiviet-lienquan container card">
                                 <ul>
@@ -230,6 +204,12 @@
                             <div class="card card-header pinked-low mb-3">
                                 <h5 class="h5-responsive white-text">Posting Terkait</h5>
 							</div>
+                            <li>
+                                <a href="pengertian.php">
+                                    <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Pengertian-Urethritis.jpg" align="left"> Definisi Urethritis
+                                </a>
+                            </li>
+                            <hr>
                             <li>
                                 <a href="cara.php">
                                     <img class="img-thumbnail img-responsive img-fluid" src="../thumbnail/Cara-Pengobatan-Urethritis.jpg" align="left"> Cara Mengangani Urethritis
