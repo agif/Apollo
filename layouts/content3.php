@@ -8,10 +8,10 @@
                     <div class="clear10"></div>
                     <div class="cacphuongphapul">
                         <div class="phuongphapli left">
-                            <img src="img/etc/phuongphap1.jpg" alt="sistem pupa">
+                            <img src="assets/img/etc/phuongphap1.jpg" alt="sistem pupa">
                         </div>
                         <div class="metode lyric yang benar">
-                            <img src="img/etc/phuongphap2.jpg" alt="sistem pupa">
+                            <img src="assets/img/etc/phuongphap2.jpg" alt="sistem pupa">
                         </div>
                     </div>
                     <div class="clear10"></div>
@@ -23,7 +23,7 @@
                     <h2>Masalah</h2>
                 </section>
                 <div class="slider">
-                    <div><a href="#"><img src="img/chuyende/daibaoquydau.jpg" alt="Penyunatan terbaik di jakarta"></a></div>
+                    <div><a href="#"><img src="assets/img/chuyende/daibaoquydau.jpg" alt="Penyunatan terbaik di jakarta"></a></div>
                 </div>
                 <div class="clear"></div>
                 <section class="kienthucnamkhoa">
@@ -31,7 +31,7 @@
                     <div class="clear10"></div>
                     <div class="phuongphapfirst">
                         <div>
-                            <a href="#"><img src="img/etc/Belum-Ada-Gambar.jpg" alt="Anda pikir pemeriksaan medis di Hoan Cau lebih baik dari pada District General Hospital"></a>
+                            <a href="#"><img src="assets/img/etc/Belum-Ada-Gambar.jpg" alt="Anda pikir pemeriksaan medis di Hoan Cau lebih baik dari pada District General Hospital"></a>
                         </div>
                         <div class="nd">
                             <a href="#"><h3>Anda pikir pemeriksaan medis di Hoan Cau lebih baik dari pada General Hospital</h3></a>
@@ -65,7 +65,7 @@
                 <div class="hoibacsi">
                     <div class="hoibacsipadding">
                         <h2>JAWABAN KEPADA DOKTER ANDA  + + +</h2>
-                        <p class="hoi">Tanya : Halo dokter, saya memiliki testikel yang menyakitkan adalah pertanda penyakit apa? bagaimana cara mengobati?</p>
+                        <p class="hoi">Tanya : Halo dokter, saya memiliki testikel yang menyakitkan adalah pertanda penyakit apa? bagaimana cara Merawat?</p>
                         <p class="traloi">Pria memiliki tanda-tanda nyeri testis, sakit perut, mual, kadang disertai darah kemih ... Ini mungkin merupakan manifestasi dari tonjolan testis yang pria tidak boleh diabaikan. Penyakit jangka panjang akan menyebabkan komplikasi berbahaya bagi pria.</p>
                     </div>
                 </div>

@@ -1,39 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Utama Sentosa</title>
-    <meta name="language" content="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
-    <!-- <link href="http://dakhoahoancau.vn/img/favicon.png" rel="shortcut icon" type="image/x-icon"> -->
-    <meta name="geo.position" content="10.751806,106.684639">
-    <meta name="geo.placename" content="TPHCM">
-    <meta name="geo.region" content="VN-65">
-    <meta name="robots" content="noodp,index,follow">
-    <meta name="revisit-after" content="1 days">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/mdb.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/style.css">
-    <link rel="stylesheet" type="text/css" href="../../css/demo.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/jquery.mmenu.all.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/css.css">
-    <link rel="stylesheet" type="text/css" href="../../css/JS5.css">
+<?php include('../layouts2/include.php'); ?>
 </head>
 <body>
 
-<?php include ('../../layouts/header.php'); ?>
+<?php include ('../layouts2/header.php'); ?>
+
+<?php include ('../layouts2/banner.php'); ?>
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650">
-    <div class="banner">
-			<img class="img-fluid banner" src="../../img/banner/doktor-1.jpg" alt="Klinik umum tim medis lengkap sempurna">
-		</div>
         <section class="tranggiua m_content">
             <div class="content_h">
                 <div class="m_motbenh">
@@ -62,160 +39,261 @@
                         <div class="clear"></div>
                     </div>
                     <h3 class="h3-responsive ml-2">Keputihan</h3>
-                    <ul class="list-unstyled">
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                    <ul class="list-unstyled ml-1 mr-4">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/pengertian.php">
+                                <div class="col-4">
+                                    <a href="keputihan-adalah.php">
                                         <img src="thumbnail/Pengertian-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/pengertian.php">
-                                         <h4 class="h4-responsive pinked-low-text">Definisi Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="keputihan-adalah.php">
+                                         <h5 class="h5-responsive pinked-low-text">Definisi Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                   
+                                        <p class="text-justify">
+                                            <b>Keputihan adalah keluarnya cairan dari alat genitalia wanita yang tidak berupa darah. Keputihan disebut juga dengan istira ... </b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan adalah keluarnya cairan dari alat genitalia wanita yang tidak berupa darah. Keputihan disebut juga dengan istirah leukorrhoea atau fluor albus ... 
-                                    </p>
-                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="keputihan-adalah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/gejala.php">
+                                <div class="col-4">
+                                    <a href="macam-macam-keputihan.php">
+                                        <img src="thumbnail/Macam-Keputihan.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="macam-macam-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Macam - Macam Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Bergantung pada spesiesnya. Keputihan yang bersifat fisiologis (dalam keadaan normal) tapi juga bisa bersifat patologis (karena sakit) ... </b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="macam-macam-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="gejala-keputihan.php">
                                         <img src="thumbnail/Gejala-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="gejala-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Gejala Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan pada wanita bisa berlangsung selama berminggu-minggu bahkan berbulan-bulan. Namun harus segera diobati, agar tidak ... </b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan pada wanita bisa berlangsung selama berminggu-minggu bahkan berbulan-bulan. Namun harus segera diobati, agar tidak ... 
-                                    </p>
-                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="gejala-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="perawatan-keputihan.php">
+                                        <img src="thumbnail/Cara-Perawatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/cara.php">
-                                         <h4 class="h4-responsive pinked-low-text">Cara Pengobatan Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="perawatan-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Cara Perawatan Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan bisa dialami oleh semua wanita yang kurang mampu menjaga kebersihan kulit atau pakaiannya, sehingga menyebabkan pertumbuhan jamur yang bisa menyebabkan ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan bisa dialami oleh semua wanita yang kurang mampu menjaga kebersihan kulit atau pakaiannya, sehingga menyebabkan pertumbuhan jamur yang bisa menyebabkan ...
-                                    </p>
-                                    <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="perawatan-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="klinik-terbaik-yang-menangani-keputihan.php">
+                                        <img src="thumbnail/Klinik-Perawatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/klinik.php">
-                                         <h4 class="h4-responsive pinked-low-text">Klinik Pengobatan Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="klinik-terbaik-yang-menangani-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Klinik Perawatan Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan adalah penyakit yang disebabkan oleh infeksi atau pembengkakan alat kelamin dan umumnya diderita oleh wanita. Hal ini disebabkan infeksi ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan adalah penyakit yang disebabkan oleh infeksi atau pembengkakan alat kelamin dan umumnya diderita oleh wanita. Hal ini disebabkan infeksi ...
-                                    </p>
-                                    <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
+                                    <!-- <a href="klinik-terbaik-yang-menangani-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i> -->
                                     </a>
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Pengobatan-Keputihan.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="biaya-untuk-perawatan-keputihan.php">
+                                        <img src="thumbnail/Biaya-Perawatan-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Untuk Pengobatan Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="biaya-untuk-perawatan-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Biaya Untuk Perawatan Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan merupakan hal yang sangat wajar dialami oleh setiap wania. Keputihan merupakan proses dimana sistem reproduski memproduksi cairan yang ...
-                                    </p>
-                                    <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="biaya-untuk-perawatan-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/k-kuning.php">
+                                <div class="col-4">
+                                    <a href="keputihan-berwarna-kuning.php">
                                         <img src="thumbnail/Keputihan-Berwarna-Kuning.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/k-kuning.php">
-                                         <h4 class="h4-responsive pinked-low-text">Keputihan Kuning</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="keputihan-berwarna-kuning.php">
+                                         <h5 class="h5-responsive pinked-low-text">Keputihan Kuning</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan berwarna kuning merupakan penyakit yang disebabkan oleh adanya infeksi atau pembengkakan alat kelamin dan pada umumnya diderita oleh kebanyakan wanita ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan berwarna kuning merupakan penyakit yang disebabkan oleh adanya infeksi atau pembengkakan alat kelamin dan pada umumnya diderita oleh kebanyakan wanita ...
-                                    </p>
-                                    <a href="single/k-kuning.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="keputihan-berwarna-kuning.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/k-darah.php">
+                                <div class="col-4">
+                                    <a href="keputihan-darah.php">
                                         <img src="thumbnail/Keputihan-Darah.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/k-darah.php">
-                                         <h4 class="h4-responsive pinked-low-text">Keputihan Darah</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="keputihan-darah.php">
+                                         <h5 class="h5-responsive pinked-low-text">Keputihan Darah</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Pada vagina yang terjadi pendarahan tidak normal memiliki banyak kemungkinan penyebabnya. Dan tidak akan menunjukkan kondisi yang serius. Karena ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Pada vagina yang terjadi pendarahan tidak normal memiliki banyak kemungkinan penyebabnya. Dan tidak akan menunjukkan kondisi yang serius. Karena ...
-                                    </p>
-                                    <a href="single/k-darah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="keputihan-darah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/penyebab.php">
+                                <div class="col-4">
+                                    <a href="penyebab-keputihan.php">
                                         <img src="thumbnail/Penyebab-Keputihan.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/penyebab.php">
-                                         <h4 class="h4-responsive pinked-low-text">Penyebab Keputihan</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="penyebab-keputihan.php">
+                                         <h5 class="h5-responsive pinked-low-text">Penyebab Keputihan</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan patologis dapat terjadi karena alat kelamin luar.  Ada banyak bakteri yang masuk melalui hubungan seksual atau saat haid. Keputihan-keputihan ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Keputihan patologis dapat terjadi karena alat kelamin luar.  Ada banyak bakteri yang masuk melalui hubungan seksual atau saat haid. Keputihan-keputihan ...
-                                    </p>
-                                    <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="penyebab-keputihan.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="bahaya-keputihan-dan-pencegahannya.php">
+                                        <img src="thumbnail/Bahaya-Dan-Pencegahan-Keputihan.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="bahaya-keputihan-dan-pencegahannya.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Saja Bahaya Keputihan Dan Pencegahannya</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan pada dasarnya dapat digolongkan menjadi 2 golongan yaitu keputihan normal (fisiologis) dan keputihan abnormal (patologis). Keputihan patologis dapat ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="bahaya-keputihan-dan-pencegahannya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="keputihan-berbau-amis.php">
+                                        <img src="thumbnail/Keputihan-Berbau-Amis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="keputihan-berbau-amis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Keputihan Berbau Amis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan berbau amis atau bau pada alat kelamin wanita adalah masalah yang sangat umum yang mempengaruhi setiap wanita yang telah mencapai masa pubertas ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="keputihan-berbau-amis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="keputihan-seperti-susu-basi.php">
+                                        <img src="thumbnail/Keputihan-Seperti-Susu-Basi.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="keputihan-seperti-susu-basi.php">
+                                         <h5 class="h5-responsive pinked-low-text">Keputihan Seperti Susu Basi</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Keputihan seperti susu basi yang memiliki cairan atau adanya rasa basah yang berasal dari alat kelamin wanita. Perubahan dalam jumlah yang lebih besar ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="keputihan-seperti-susu-basi.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
                     </ul>
                     <div class="clear20"></div>
                 </div>
@@ -226,98 +304,7 @@
     </div>
 </div>
 
-<?php include ('../../layouts/footer.php'); ?>
+<?php include ('../layouts2/footer.php'); ?>
 
-<script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/popper.min.js"></script>
-<script type="text/javascript" src="../../js/request.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/mdb.min.js"></script>
-<script type="text/javascript" src="../../js/jquery.mmenu.min.all.js"></script>
-<script type="text/javascript" src="../../js/style.js"></script>
-<script type="text/javascript">
-$(function() {
-    $('#menu').mmenu({
-        extensions: ['effect-slide-menu', 'penyakithadow'],
-        searchfield: false,
-        counters: true,
-        navbar: {
-            title: '<a href=".">Klinik Sentosa</a>'
-        },
-        navbars: [{
-            position: 'top',
-            content: [
-                'prev',
-                'title',
-                'close'
-            ]
-        }, {
-            position: 'bottom',
-            content: [
-                ''
-            ]
-        }]
-    });
-    $('.changemap').click(function() {
-        $('.address').fadeOut(500);
-    });
-    $('.changemap1').click(function() {
-        $('.address').fadeIn(500);
-    });
-    $(".che1").hide();
-    $(".playyoutube").click(function() {
-        $(".che1").fadeIn(500);
-        $(".lightboxright").php('<iframe width="100%" height="100%" src="https://www.youtube.com/embed/naI8SbkGrmw?autoplay=1" frameborder="0" allowfullscreen></iframe>');
-        $(document).keyup(function(e) {
-            if (e.keyCode === 27) $('.hoancauclose').click(); // esc
-        });
-        return false;
-    });
-    $(".hoancauclose").click(function() {
-        $(".lightboxright").php('');
-        $(".che1").fadeOut(500);
-        return false;
-    });
-
-    function debounce(wait, bool, func) {
-        var timeout;
-        return function() {
-            var context = this,
-                args = arguments;
-            var executeFunction = function() {
-                func.apply(context, args);
-            };
-            if (bool == false) {
-                clearTimeout(timeout);
-                timeout = setTimeout(executeFunction, wait);
-            };
-            if (bool == true) {
-                func.apply(context, args);
-            };
-        }
-    };
-    var test = false;
-    $(window).scroll(debounce(1000, true, function() {
-        if (test == true) {
-            $("#menuNAV").removeClass("fix-scroll").hide().fadeOut(500);
-            $(".anhien").css("top", "0px");
-        }
-        console.log('dang lướt');
-    }));
-    $(window).scroll(debounce(1000, false, function() {
-        if ($(this).scrollTop() > 300) {
-            $("#menuNAV").hide().addClass("fix-scroll").fadeIn(500);
-            $(".anhien").css("top", "35px");
-            test = true;
-        } else {
-            $("#menuNAV").show().fadeIn(500);
-            $(".anhien").css("top", "0px");
-            test = true;
-        }
-        console.log('pause');
-    }));
-});
-</script>
 </body>
 </html>

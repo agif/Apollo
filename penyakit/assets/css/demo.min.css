@@ -1,0 +1,8 @@
+nav:not(.mm-menu){display:none;}
+.header{text-align:center;}
+.header, .footer{}
+.header.fixed{position:fixed;top:0;left:0;}
+.footer.fixed{position:fixed;bottom:0;left:0;}
+.header a.menu_m{background:left center no-repeat transparent;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADhJREFUeNpi/P//PwOtARMDHQBdLGFBYtMq3BiHT3DRPU4YR4NrNAmPJuHRJDyahEeT8Ii3BCDAAF0WBj5Er5idAAAAAElFTkSuQmCC);display:block;float:left;color:#fff;text-align:left;white-space:nowrap;}
+.sh_related > ul{list-style:none}
+#chieucao span{font-size:14px;}

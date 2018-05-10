@@ -1,39 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Utama Sentosa</title>
-    <meta name="language" content="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
-    <!-- <link href="http://dakhoahoancau.vn/img/favicon.png" rel="shortcut icon" type="image/x-icon"> -->
-    <meta name="geo.position" content="10.751806,106.684639">
-    <meta name="geo.placename" content="TPHCM">
-    <meta name="geo.region" content="VN-65">
-    <meta name="robots" content="noodp,index,follow">
-    <meta name="revisit-after" content="1 days">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/mdb.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/style.css">
-    <link rel="stylesheet" type="text/css" href="../../css/demo.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/jquery.mmenu.all.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/css.css">
-    <link rel="stylesheet" type="text/css" href="../../css/JS5.css">
+<?php include('../layouts2/include.php'); ?>
 </head>
 <body>
 
-<?php include ('../../layouts/header.php'); ?>
+<?php include ('../layouts2/header.php'); ?>
+
+<?php include ('../layouts2/banner.php'); ?>
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650">
-        <div class="banner">
-			<img class="img-fluid banner" src="../../img/banner/doktor-1.jpg" alt="Klinik umum tim medis lengkap sempurna">
-		</div>
         <section class="tranggiua m_content">
             <div class="content_h">
                 <div class="m_motbenh">
@@ -63,122 +40,157 @@
                     </div>
                     <h3 class="h3-responsive ml-2">Servicitis</h3>
                     <hr>
-                    <ul class="list-unstyled">
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                    <ul class="list-unstyled ml-1 mr-4">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/pengertian.php">
+                                <div class="col-4">
+                                    <a href="servicitis-adalah.php">
                                         <img src="thumbnail/Pengertian-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/pengertian.php">
-                                         <h4 class="h4-responsive pinked-low-text">Pengertian Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="servicitis-adalah.php">
+                                         <h5 class="h5-responsive pinked-low-text">Pengertian Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Servicitis adalah iritasi atau infeksi pada serviks (leher rahim). Sejumlah organisme yang berbeda dapat menyebabkannya. Peradangan atau ...
+                                            </b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Servicitis adalah iritasi atau infeksi pada serviks (leher rahim). Sejumlah organisme yang berbeda dapat menyebabkannya. Peradangan atau ...
-                                    </p>
-                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="servicitis-adalah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/gejala.php">
+                                <div class="col-4">
+                                    <a href="gejala-servicitis.php">
                                         <img src="thumbnail/Gejala-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="gejala-servicitis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Gejala Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Servicitis yang paling umum adalah adanya keputihan yang seringkali lebih berat setelah menstruasi. Gejala servicitis meliputi ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Servicitis yang paling umum adalah adanya keputihan yang seringkali lebih berat setelah menstruasi. Gejala servicitis meliputi ...
-                                    </p>
-                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="gejala-servicitis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="perawatan-servicitis.php">
+                                        <img src="thumbnail/Cara-Perawatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/cara.php">
-                                         <h4 class="h4-responsive pinked-low-text">Pengobatan Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="perawatan-servicitis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Perawatan Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Perawatan servicitis yang disebabkan oleh herpes genital dapat membantu mengurangi jumlah waktu ketika Anda menderita gejala servicitis. Herpes adalah kondisi kronis yang bisa ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Pengobatan servicitis yang disebabkan oleh herpes genital dapat membantu mengurangi jumlah waktu ketika Anda menderita gejala servicitis. Herpes adalah kondisi kronis yang bisa ...
-                                    </p>
-                                    <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="perawatan-servicitis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="klinik-yang-menangani-servicitis.php">
+                                        <img src="thumbnail/Klinik-Perawatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/klinik.php">
-                                         <h4 class="h4-responsive pinked-low-text">Klinik Yang Menangani Penyakit Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="klinik-yang-menangani-servicitis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Klinik Yang Menangani Penyakit Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Klinik yang bergerak dibidang kesehatan penyakit kulit dan kelamin. Tidak menutup kemungkinan bahwa dijaman sekarang ini ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Klinik yang bergerak dibidang kesehatan penyakit kulit dan kelamin. Tidak menutup kemungkinan bahwa dijaman sekarang ini ...
-                                    </p>
-                                    <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
+                                    <!-- <a href="klinik-yang-menangani-servicitis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i> -->
                                     </a>
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Pengobatan-Servicitis.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="biaya-perawatan-servicitis.php">
+                                        <img src="thumbnail/Biaya-Perawatan-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="biaya-perawatan-servicitis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Biaya Perawatan Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat penting untuk kehidupan ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat penting untuk kehidupan ...
-                                    </p>
-                                    <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="biaya-perawatan-servicitis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/penyebab.php">
+                                <div class="col-4">
+                                    <a href="penyebab-servicitis.php">
                                         <img src="thumbnail/Penyebab-Servicitis.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/penyebab.php">
-                                         <h4 class="h4-responsive pinked-low-text">Penyebab Servicitis</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="penyebab-servicitis.php">
+                                         <h5 class="h5-responsive pinked-low-text">Penyebab Servicitis</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Servicitis adalah radang pada serviks (leher rahim atau bagian rahim yang menonjol ke bawah dalam vagina). Namun penyebab peradangan kemungkinan berasal ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Servicitis adalah radang pada serviks (leher rahim atau bagian rahim yang menonjol ke bawah dalam vagina). Namun penyebab peradangan kemungkinan berasal ...
-                                    </p>
-                                    <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="penyebab-servicitis.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="bahaya-servicitis-dan-pencegahannya.php">
+                                        <img src="thumbnail/Bahaya-Dan-Pencegahan-Servicitis.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="bahaya-servicitis-dan-pencegahannya.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Saja Bahaya Servicitis Dan Pencegahannya</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Servicitis dapat berkembang selama bertahun-tahun dengan keputihan, tandanya dengan demam, gangguan menstruasi atau ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="bahaya-servicitis-dan-pencegahannya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
                     </ul>
                     <div class="clear20"></div>
                 </div>
@@ -189,98 +201,7 @@
     </div>
 </div>
 
-<?php include ('../../layouts/footer.php'); ?>
+<?php include ('../layouts2/footer.php'); ?>
 
-<script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/popper.min.js"></script>
-<script type="text/javascript" src="../../js/request.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/mdb.min.js"></script>
-<script type="text/javascript" src="../../js/jquery.mmenu.min.all.js"></script>
-<script type="text/javascript" src="../../js/style.js"></script>
-<script type="text/javascript">
-$(function() {
-    $('#menu').mmenu({
-        extensions: ['effect-slide-menu', 'penyakithadow'],
-        searchfield: false,
-        counters: true,
-        navbar: {
-            title: '<a href=".">Klinik Sentosa</a>'
-        },
-        navbars: [{
-            position: 'top',
-            content: [
-                'prev',
-                'title',
-                'close'
-            ]
-        }, {
-            position: 'bottom',
-            content: [
-                ''
-            ]
-        }]
-    });
-    $('.changemap').click(function() {
-        $('.address').fadeOut(500);
-    });
-    $('.changemap1').click(function() {
-        $('.address').fadeIn(500);
-    });
-    $(".che1").hide();
-    $(".playyoutube").click(function() {
-        $(".che1").fadeIn(500);
-        $(".lightboxright").php('<iframe width="100%" height="100%" src="https://www.youtube.com/embed/naI8SbkGrmw?autoplay=1" frameborder="0" allowfullscreen></iframe>');
-        $(document).keyup(function(e) {
-            if (e.keyCode === 27) $('.hoancauclose').click(); // esc
-        });
-        return false;
-    });
-    $(".hoancauclose").click(function() {
-        $(".lightboxright").php('');
-        $(".che1").fadeOut(500);
-        return false;
-    });
-
-    function debounce(wait, bool, func) {
-        var timeout;
-        return function() {
-            var context = this,
-                args = arguments;
-            var executeFunction = function() {
-                func.apply(context, args);
-            };
-            if (bool == false) {
-                clearTimeout(timeout);
-                timeout = setTimeout(executeFunction, wait);
-            };
-            if (bool == true) {
-                func.apply(context, args);
-            };
-        }
-    };
-    var test = false;
-    $(window).scroll(debounce(1000, true, function() {
-        if (test == true) {
-            $("#menuNAV").removeClass("fix-scroll").hide().fadeOut(500);
-            $(".anhien").css("top", "0px");
-        }
-        console.log('dang lướt');
-    }));
-    $(window).scroll(debounce(1000, false, function() {
-        if ($(this).scrollTop() > 300) {
-            $("#menuNAV").hide().addClass("fix-scroll").fadeIn(500);
-            $(".anhien").css("top", "35px");
-            test = true;
-        } else {
-            $("#menuNAV").show().fadeIn(500);
-            $(".anhien").css("top", "0px");
-            test = true;
-        }
-        console.log('pause');
-    }));
-});
-</script>
 </body>
 </html>
