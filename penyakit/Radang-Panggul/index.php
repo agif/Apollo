@@ -1,39 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Utama Sentosa</title>
-    <meta name="language" content="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
-    <!-- <link href="http://dakhoahoancau.vn/img/favicon.png" rel="shortcut icon" type="image/x-icon"> -->
-    <meta name="geo.position" content="10.751806,106.684639">
-    <meta name="geo.placename" content="TPHCM">
-    <meta name="geo.region" content="VN-65">
-    <meta name="robots" content="noodp,index,follow">
-    <meta name="revisit-after" content="1 days">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/mdb.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/style.css">
-    <link rel="stylesheet" type="text/css" href="../../css/demo.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/jquery.mmenu.all.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/css.css">
-    <link rel="stylesheet" type="text/css" href="../../css/JS5.css">
-</head>
+<?php include('../layouts2/include.php'); ?>
 <body>
 
-<?php include ('../../layouts/header.php'); ?>
+<?php include ('../layouts2/header.php'); ?>
+
+<?php include ('../layouts2/banner.php'); ?>
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650">
-        <div class="banner">
-			<img class="img-fluid banner" src="../../img/banner/doktor-1.jpg" alt="Klinik umum tim medis lengkap sempurna">
-		</div>
         <section class="tranggiua m_content">
             <div class="content_h">
                 <div class="m_motbenh">
@@ -63,122 +39,178 @@
                     </div>
                     <h3 class="h3-responsive ml-2">Radang Panggul</h3>
                     <hr>
-                    <ul class="list-unstyled">
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                    <ul class="list-unstyled ml-1 mr-4">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/pengertian.php">
+                                <div class="col-4">
+                                    <a href="penyakit-radang-panggul.php">
+                                        <img src="thumbnail/Tentang-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="penyakit-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Tentang Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Penyakit radang panggul (PID) adalah infeksi yang dapat mempengaruhi rahim, ovarium dan saluran tuba. Jika Anda memiliki ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="penyakit-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="radang-panggul-adalah.php">
                                         <img src="thumbnail/Pengertian-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/pengertian.php">
-                                         <h4 class="h4-responsive pinked-low-text">Pengertian Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="radang-panggul-adalah.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Itu Penyakit Radang Panggul? </h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Penyakit radang panggul (PID) mengacu pada infeksi rahim, saluran tuba (tabung yang membawa telur dari ovarium ke rahim) dan organ ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Penyakit radang panggul (PID) adalah infeksi yang dapat mempengaruhi rahim, ovarium dan saluran tuba. Jika Anda memiliki penyakit radang panggul (PID) yang tidak diobati maka akan menyebabkan penyumbatan atau adhesi ...
-                                    </p>
-                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="radang-panggul-adalah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/gejala.php">
+                                <div class="col-4">
+                                    <a href="gejala-radang-panggul.php">
                                         <img src="thumbnail/Gejala-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="gejala-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Gejala Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Beberapa atau kebanyakan dari wanita tidak mengetahui bahwa mereka menderita penyakit radang panggul (PID) karena mereka tidak memiliki tanda ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Beberapa atau kebanyakan dari wanita tidak mengetahui bahwa mereka menderita penyakit radang panggul (PID) karena mereka tidak memiliki tanda ...
-                                    </p>
-                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="gejala-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="perawatan-radang-panggul.php">
+                                        <img src="thumbnail/Cara-Perawatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/cara.php">
-                                         <h4 class="h4-responsive pinked-low-text">Pengobatan Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="perawatan-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Perawatan Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Setelah dilakukan pemeriksaan, dokter akan mengetahui jenis bakteri yang menjadi penyebab infeksi penyakit radang panggul (PID). Dalam beberapa ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Setelah dilakukan pemeriksaan, dokter akan mengetahui jenis bakteri yang menjadi penyebab infeksi penyakit radang panggul (PID). Dalam beberapa ...
-                                    </p>
-                                    <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="perawatan-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="klinik-terbaik-perawatan-radang-panggul.php">
+                                        <img src="thumbnail/Klinik-Perawatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/klinik.php">
-                                         <h4 class="h4-responsive pinked-low-text">Klinik Terbaik Pengobatan Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="klinik-terbaik-perawatan-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Klinik Terbaik Perawatan Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Klinik Utama Sentosa menangani segala jenis penyakit yang berhubungan dengan penyakit kelamin. Salah satu tempat yang sangat sesuai ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Klinik Utama Sentosa menangani segala jenis penyakit yang berhubungan dengan penyakit kelamin. Salah satu tempat yang sangat sesuai ...
-                                    </p>
-                                    <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
-                                    </a>
+                                    <!-- <a href="klinik-terbaik-perawatan-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
+                                    </a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Pengobatan-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="biaya-perawatan-radang-panggul.php">
+                                        <img src="thumbnail/Biaya-Perawatan-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="biaya-perawatan-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Biaya Perawatan Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Anda menderita penyakit radang panggul (PID)? Atau sedang mencari informasi mengenai biaya yang harus dikeluarkan untuk melakukan ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Anda menderita penyakit radang panggul (PID)? Atau sedang mencari informasi mengenai biaya yang harus dikeluarkan untuk melakukan ...
-                                    </p>
-                                    <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="biaya-perawatan-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/penyebab.php">
+                                <div class="col-4">
+                                    <a href="penyebab-radang-panggul.php">
                                         <img src="thumbnail/Penyebab-Radang-Panggul.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/penyebab.php">
-                                         <h4 class="h4-responsive pinked-low-text">Penyebab Radang Panggul</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="penyebab-radang-panggul.php">
+                                         <h5 class="h5-responsive pinked-low-text">Penyebab Radang Panggul</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Sejumlah mikroorganisme berbeda dapat menyebabkan atau berkontribusi pada penyakit radang panggul (PID). Patogen (mikroorganisme parasit) ...
+                                            </b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Sejumlah mikroorganisme berbeda dapat menyebabkan atau berkontribusi pada penyakit radang panggul (PID). Patogen (mikroorganisme parasit) ...
-                                    </p>
-                                    <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="penyebab-radang-panggul.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="bahaya-radang-panggul-dan-pencegahannya.php">
+                                        <img src="thumbnail/Bahaya-Dan-Pencegahan-Radang-Panggul.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="bahaya-radang-panggul-dan-pencegahannya.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Saja Bahaya Radang Panggul Dan Pencegahannya</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Faktor risiko meningkatkan kemungkinan penyebaran penyakit radang panggul (PID) misalnya pada setiap wanita yang ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="bahaya-radang-panggul-dan-pencegahannya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
                     </ul>
                     <div class="clear20"></div>
                 </div>
@@ -189,98 +221,7 @@
     </div>
 </div>
 
-<?php include ('../../layouts/footer.php'); ?>
+<?php include ('../layouts2/footer.php'); ?>
 
-<script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/popper.min.js"></script>
-<script type="text/javascript" src="../../js/request.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/mdb.min.js"></script>
-<script type="text/javascript" src="../../js/jquery.mmenu.min.all.js"></script>
-<script type="text/javascript" src="../../js/style.js"></script>
-<script type="text/javascript">
-$(function() {
-    $('#menu').mmenu({
-        extensions: ['effect-slide-menu', 'penyakithadow'],
-        searchfield: false,
-        counters: true,
-        navbar: {
-            title: '<a href=".">Klinik Sentosa</a>'
-        },
-        navbars: [{
-            position: 'top',
-            content: [
-                'prev',
-                'title',
-                'close'
-            ]
-        }, {
-            position: 'bottom',
-            content: [
-                ''
-            ]
-        }]
-    });
-    $('.changemap').click(function() {
-        $('.address').fadeOut(500);
-    });
-    $('.changemap1').click(function() {
-        $('.address').fadeIn(500);
-    });
-    $(".che1").hide();
-    $(".playyoutube").click(function() {
-        $(".che1").fadeIn(500);
-        $(".lightboxright").php('<iframe width="100%" height="100%" src="https://www.youtube.com/embed/naI8SbkGrmw?autoplay=1" frameborder="0" allowfullscreen></iframe>');
-        $(document).keyup(function(e) {
-            if (e.keyCode === 27) $('.hoancauclose').click(); // esc
-        });
-        return false;
-    });
-    $(".hoancauclose").click(function() {
-        $(".lightboxright").php('');
-        $(".che1").fadeOut(500);
-        return false;
-    });
-
-    function debounce(wait, bool, func) {
-        var timeout;
-        return function() {
-            var context = this,
-                args = arguments;
-            var executeFunction = function() {
-                func.apply(context, args);
-            };
-            if (bool == false) {
-                clearTimeout(timeout);
-                timeout = setTimeout(executeFunction, wait);
-            };
-            if (bool == true) {
-                func.apply(context, args);
-            };
-        }
-    };
-    var test = false;
-    $(window).scroll(debounce(1000, true, function() {
-        if (test == true) {
-            $("#menuNAV").removeClass("fix-scroll").hide().fadeOut(500);
-            $(".anhien").css("top", "0px");
-        }
-        console.log('dang lướt');
-    }));
-    $(window).scroll(debounce(1000, false, function() {
-        if ($(this).scrollTop() > 300) {
-            $("#menuNAV").hide().addClass("fix-scroll").fadeIn(500);
-            $(".anhien").css("top", "35px");
-            test = true;
-        } else {
-            $("#menuNAV").show().fadeIn(500);
-            $(".anhien").css("top", "0px");
-            test = true;
-        }
-        console.log('pause');
-    }));
-});
-</script>
 </body>
 </html>

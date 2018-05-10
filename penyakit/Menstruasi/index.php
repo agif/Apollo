@@ -1,39 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Klinik Utama Sentosa</title>
-    <meta name="language" content="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,target-densitydpi=device-dpi, user-scalable=no">
-    <!-- <link href="http://dakhoahoancau.vn/img/favicon.png" rel="shortcut icon" type="image/x-icon"> -->
-    <meta name="geo.position" content="10.751806,106.684639">
-    <meta name="geo.placename" content="TPHCM">
-    <meta name="geo.region" content="VN-65">
-    <meta name="robots" content="noodp,index,follow">
-    <meta name="revisit-after" content="1 days">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/mdb.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/style.css">
-    <link rel="stylesheet" type="text/css" href="../../css/demo.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/jquery.mmenu.all.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/css.css">
-    <link rel="stylesheet" type="text/css" href="../../css/JS5.css">
+<?php include('../layouts2/include.php'); ?>
 </head>
 <body>
 
-<?php include ('../../layouts/header.php'); ?>
+<?php include ('../layouts2/header.php'); ?>
+
+<?php include ('../layouts2/banner.php'); ?>
 
 <div id="mm-0" class="mm-page mm-slideout">
     <div class="w650">
-        <div class="banner">
-			<img class="img-fluid banner" src="../../img/banner/doktor-1.jpg" alt="Klinik umum tim medis lengkap sempurna">
-		</div>
         <section class="tranggiua m_content">
             <div class="content_h">
                 <div class="m_motbenh">
@@ -63,122 +40,177 @@
                     </div>
                     <h3 class="h3-responsive ml-2">Menstruasi Tidak Teratur</h3>
                     <hr>
-                    <ul class="list-unstyled">
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                    <ul class="list-unstyled ml-1 mr-4">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/pengertian.php">
+                                <div class="col-4">
+                                    <a href="menstruasi-adalah.php">
                                         <img src="thumbnail/Pengertian-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/pengertian.php">
-                                         <h4 class="h4-responsive pinked-low-text">Menstruasi Yang Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="menstruasi-adalah.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Itu Menstruasi ?</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Periode menstruasi adalah tahap utama pubertas pada anak perempuan. Salah satu dari tanda fisik seorang agdis berubah menjadi wanita ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Menstruasi adalah pendarahan vagina normal yang terjadi sebagai bagian dari siklus bulanan wanita. Jika tidak terjadi kehamilan, rahim melepaskan ...
-                                    </p>
-                                    <a href="single/pengertian.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="menstruasi-adalah.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/gejala.php">
+                                <div class="col-4">
+                                    <a href="menstruasi-tidak-teratur.php">
+                                        <img src="thumbnail/Menstruasi-Tidak-Teratur.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Menstruasi Yang Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Menstruasi adalah pendarahan vagina normal yang terjadi sebagai bagian dari siklus bulanan wanita. Jika tidak terjadi kehamilan ...
+                                            </b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="gejala-menstruasi-tidak-teratur.php">
                                         <img src="thumbnail/Gejala-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/gejala.php">
-                                         <h4 class="h4-responsive pinked-low-text">Gejala Menstruasi Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="gejala-menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Gejala Menstruasi Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Siklus menstruasi seorang wanita berlangsung rata-rata 28 hari. Ovulasi (proses yang terjadi didalam siklus menstruasi wanita) ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Siklus menstruasi seorang wanita berlangsung rata-rata 28 hari. Ovulasi (proses yang terjadi didalam siklus menstruasi wanita), periode ketika telur ...
-                                    </p>
-                                    <a href="single/gejala.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="gejala-menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/cara.php">
-                                        <img src="thumbnail/Cara-pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="bagaimana-cara-merawat-menstruasi-tidak-teratur.php">
+                                        <img src="thumbnail/Cara-Perawatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/cara.php">
-                                         <h4 class="h4-responsive pinked-low-text">Bagaimana Cara Mengobati Menstruasi Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="bagaimana-cara-merawat-menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Bagaimana Cara Merawat Menstruasi Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Perawatan untuk menstruasi tidak teratur sering bervariasi berdasarkan jenis ketidakteraturan dan faktor gaya ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Pengobatan untuk menstruasi tidak teratur sering bervariasi berdasarkan jenis ketidakteraturan dan faktor gaya hidup tertentu. Pengobatan untuk menstruasi ...
-                                    </p>
-                                    <a href="single/cara.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="bagaimana-cara-merawat-menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/klinik.php">
-                                        <img src="thumbnail/Klinik-Pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="klinik-terbaik-perawatan-menstruasi-tidak-teratur.php">
+                                        <img src="thumbnail/Klinik-Perawatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8  text-center mb-3 mt-2">
-                                    <a href="single/klinik.php">
-                                         <h4 class="h4-responsive pinked-low-text">Klinik Terbaik Pengobatan Menstruasi Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="klinik-terbaik-perawatan-menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Klinik Terbaik Perawatan Menstruasi Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Setiap wanita pada masa subur normalnya mengalami menstruasi sebulan sekali atau 21-35 hari sekali. Namun, tidak ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Setiap wanita pada masa subur normalnya mengalami menstruasi sebulan sekali atau 21-35 hari sekali. Namun, tidak semua wanita mengalami ...
-                                    </p>
-                                    <a href="single/klinik.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
-                                    </a>
+                                    <!-- <a href="klinik-terbaik-perawatan-menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i>
+                                    </a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/biaya.php">
-                                        <img src="thumbnail/Biaya-Pengobatan-Menstruasi.jpg" class="img-thumbnail"/>
+                                <div class="col-4">
+                                    <a href="biaya-perawatan-menstruasi-tidak-teratur.php">
+                                        <img src="thumbnail/Biaya-Perawatan-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/biaya.php">
-                                         <h4 class="h4-responsive pinked-low-text">Biaya Pengobatan Menstruasi Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="biaya-perawatan-menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Biaya Perawatan Menstruasi Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                        <p class="text-justify">
+                                            <b>Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Untuk masalah biaya kesehatan organ kelamin memang bisa dibilang tidak murah. Karena berhubungan dengan orgna kelamin yang mana sangat ...
-                                    </p>
-                                    <a href="single/biaya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="biaya-perawatan-menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
-                        <li class="jumbotron ml-2 mr-2" style="border-bottom: 1px solid #df53cc;">
+                        <hr class="pinked">
+                        <li>
                             <div class="row">
-                                <div class="col-md-4 text-center mb-3 mt-2 index-sub-img">
-                                    <a href="single/penyebab.php">
+                                <div class="col-4">
+                                    <a href="penyebab-menstruasi-tidak-teratur.php">
                                         <img src="thumbnail/Penyebab-Menstruasi.jpg" class="img-thumbnail"/>
                                     </a>
                                 </div>
-                                <div class="col-md-8 text-center mb-3 mt-2">
-                                    <a href="single/penyebab.php">
-                                         <h4 class="h4-responsive pinked-low-text">Penyebab Menstruasi Tidak Teratur</h4>
-                                        <hr class="pinked">
+                                <div class="col-8 sm-text">
+                                    <a href="penyebab-menstruasi-tidak-teratur.php">
+                                         <h5 class="h5-responsive pinked-low-text">Penyebab Menstruasi Tidak Teratur</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Siklus menstruasi bisa terganggu jika Anda memiliki ketidakseimbangan hormon estrogen dan progesteron. Bukan tidak biasa memiliki ...</b>
+                                        </p>
                                     </a>
-                                    <p class="text-justify">
-                                        Siklus menstruasi bisa terganggu jika Anda memiliki ketidakseimbangan hormon estrogen dan progesteron. Bukan tidak biasa memiliki ...
-                                    </p>
-                                    <a href="single/penyebab.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
+                                    <!-- <a href="penyebab-menstruasi-tidak-teratur.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
                                 </div>
                             </div>
                         </li>
+                        <hr class="pinked">
+                        <li>
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="bahaya-menstruasi-tidak-teratur-dan-pencegahannya.php">
+                                        <img src="thumbnail/Bahaya-Dan-Pencegahan-Menstruasi.jpg" class="img-thumbnail"/>
+                                    </a>
+                                </div>
+                                <div class="col-8 sm-text">
+                                    <a href="bahaya-menstruasi-tidak-teratur-dan-pencegahannya.php">
+                                         <h5 class="h5-responsive pinked-low-text">Apa Saja Bahaya Menstruasi Tidak Teratur Dan Pencegahannya</h5>
+                                        <!-- <hr class="pinked"> -->
+                                    
+                                        <p class="text-justify">
+                                            <b>Secara umum tidak berbahaya ketika memiliki periode menstruasi tidak teratur. Namun ketika memiliki periode ...</b>
+                                        </p>
+                                    </a>
+                                    <!-- <a href="bahaya-menstruasi-tidak-teratur-dan-pencegahannya.php" class="btn btn-outline-brown waves-effect btn-sm ml-0">Lebih Lanjut ... <i class="fa fa-mail-forward" aria-hidden="true"></i></a> -->
+                                </div>
+                            </div>
+                        </li>
+                        <hr class="pinked">
                     </ul>
                     <div class="clear20"></div>
                 </div>
@@ -189,16 +221,16 @@
     </div>
 </div>
 
-<?php include ('../../layouts/footer.php'); ?>
+<?php include ('../layouts2/footer.php'); ?>
 
-<script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/popper.min.js"></script>
-<script type="text/javascript" src="../../js/request.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/mdb.min.js"></script>
-<script type="text/javascript" src="../../js/jquery.mmenu.min.all.js"></script>
-<script type="text/javascript" src="../../js/style.js"></script>
+<script type="text/javascript" src="../assets/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="../assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../assets/js/popper.min.js"></script>
+<script type="text/javascript" src="../assets/js/request.js"></script>
+<script type="text/javascript" src="../assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../assets/js/mdb.min.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript" src="../assets/js/style.js"></script>
 <script type="text/javascript">
 $(function() {
     $('#menu').mmenu({

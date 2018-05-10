@@ -13,41 +13,69 @@
       <div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1 mm-hasbtns">
           <a class="mm-prev mm-btn mm-hidden"></a>
           <a class="mm-title">
-              <a href="#">Klinik Sentosa</a>
+              <a href="http://klinikginekologi.co">Klinik Sentosa</a>
           </a>
           <a class="mm-close mm-btn" href="#"></a>
       </div>
 
       <div class="mm-panel mm-opened mm-current" id="mm-1">
-          <div class="mm-navbar"><a class="mm-title"></a><a href="#">Link1</a></div>
+          <div class="mm-navbar"><a class="mm-title"></a><a href="#">Home</a></div>
           <ul class="mm-listview">
-              <li><em class="mm-counter">4</em>
-                  <a class="mm-next" href="#" data-target="#mm-2"></a><a href="#">Link2</a>
+              <li><em class="mm-counter">6</em>
+                  <a class="mm-next" href="#" data-target="penyakit/Adnexitis"></a><a href="penyakit/Adnexitis">Adnexitis</a>
               </li>
-              <li><em class="mm-counter">0</em>
-                  <a class="mm-next" href="#" data-target="#mm-7"></a><a href="#">Link3</a>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-7"></a><a href="penyakit/Bartholinitis">Bartholinitis</a>
+              </li>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-8"></a><a href="penyakit/Cystitis">Cystitis</a>
+              </li>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-19"></a><a href="penyakit/Erosi-Serviks">Erosi Serviks</a>
+              </li>
+              <li><em class="mm-counter">4</em>
+                  <a class="mm-next" href="#" data-target="#mm-23"></a><a href="penyakit/Rekonstruksi-Selaput-Dara">Rekonstruksi Selaput Dara</a>
+              </li>
+              <li><em class="mm-counter">8</em>
+                  <a class="mm-next" href="#" data-target="#mm-28"></a><a href="penyakit/Infeksi-Saluran-Kemih">Infeksi Saluran Kemih</a>
+              </li>
+              <li><em class="mm-counter">10</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Keputihan">Keputihan</a>
+              </li>
+
+              <li><em class="mm-counter">8</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Menstruasi">Menstruasi Tidak Teratur</a>
+              </li>
+              <li><em class="mm-counter">4</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Pengencangan-Vagina">Pengencangan Vagina</a>
               </li>
               <li><em class="mm-counter">6</em>
-                  <a class="mm-next" href="#" data-target="#mm-8"></a><a href="#">Link4</a>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Polip-Serviks">Polip Serviks</a>
               </li>
-              <li><em class="mm-counter">3</em>
-                  <a class="mm-next" href="#" data-target="#mm-15"></a><a href="#">Link5</a>
+              <li><em class="mm-counter">8</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Radang-Panggul">Radang Panggul</a>
               </li>
-              <li><em class="mm-counter">3</em>
-                  <a class="mm-next" href="#" data-target="#mm-19"></a><a href="#">Link6</a>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-15"></a><a href="penyakit/Rekonstruksi-Selaput-Dara">Rekonstruksi Selaput Dara</a>
               </li>
-              <li><em class="mm-counter">4</em>
-                  <a class="mm-next" href="#" data-target="#mm-23"></a><a href="#">Link7</a>
+              <li><em class="mm-counter">6</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Salpingitis">Salpingitis</a>
               </li>
-              <li><em class="mm-counter">1</em>
-                  <a class="mm-next" href="#" data-target="#mm-28"></a><a href="#">Link8</a>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Servicitis">Servicitis</a>
               </li>
-              <li><em class="mm-counter">2</em>
-                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="#">Link9</a>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Urethritis">Urethritis</a>
+              </li>
+              <li><em class="mm-counter">7</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Vaginitis">Vaginitis</a>
+              </li>
+              <li><em class="mm-counter">6</em>
+                  <a class="mm-next" href="#" data-target="#mm-30"></a><a href="penyakit/Vulvitis">Vulvitis</a>
               </li>
           </ul>
       </div>
-      <div class="mm-panel mm-hidden" id="mm-2">
+      <!-- div class="mm-panel mm-hidden" id="mm-2">
           <div class="mm-navbar"><a class="mm-btn mm-prev" href="#" data-target="#mm-1"></a><a class="mm-title" href="#">Link A</a>
           </div>
           <ul class="mm-listview">
@@ -84,7 +112,7 @@
           <ul class="mm-listview">
           </ul>
       </div>
-  </div>
+  </div> -->
 </nav>
 
 <div id="mm-0" class="mm-page mm-slideout">
@@ -114,7 +142,7 @@
             </a>
         </div>
         <div id="brand">
-            <a href="serbaserbiandrologi.com"><h1 class="h1-responsive pinked-low-text navbar-brand">Klinik Utama Sentosa</h1>
+            <a href="http://klinikginekologi.co"><h1 class="h1-responsive pinked-low-text navbar-brand">Klinik Utama Sentosa</h1>
             </a>
         </div>
         <div id="menuNAV" class="formsodienthoaihead container">

@@ -7,7 +7,7 @@
                 <p class="divtitle">Klinik Universal</p>
             </div>
             <div class="clear"></div>
-            <a class="tuvanpoupup" href="http://goo.gl/pJW2qS">
+            <a class="tuvanpoupup" href="####http://goo.gl/pJW2qS">
                     Konsultasi sekarang
                     </a>
         </div>
@@ -20,7 +20,7 @@
     <div class="popup">
         <div class="head-top">
             <div class="col1">
-                <a href="tel:02839239999">
+                <a href="tel:081362621616">
                             <img src="img/etc/violetDT.png" class="w100" style="border: 1px solid #D727BB; border-radius: 20px; ">
                         </a>
             </div>
@@ -45,7 +45,7 @@
         </form>
         <p class="txt3"><b>Berkomitmen untuk kerahasiaan informasi</b></p>
         <div class="wrap-btn">
-            <a href="tel:02839239999">
+            <a href="tel:081362621616">
                 <div class="btn-pop">
                     <span class="icon-phone">
           <img src="img/etc/goi-dien.png" class="w100">
